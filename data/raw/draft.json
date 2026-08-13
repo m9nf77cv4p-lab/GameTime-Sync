@@ -1,0 +1,59 @@
+{
+  "created": 1784692710293,
+  "creators": [
+    "727301621322706944"
+  ],
+  "draft_id": "1385505283337367552",
+  "draft_order": null,
+  "last_message_id": "1385505283337367552",
+  "last_message_time": 1784692710293,
+  "last_picked": null,
+  "league_id": "1385505283328966656",
+  "metadata": {
+    "description": "",
+    "name": "Gametime",
+    "scoring_type": "ppr",
+    "show_team_names": "0"
+  },
+  "season": "2026",
+  "season_type": "regular",
+  "settings": {
+    "alpha_sort": 0,
+    "autopause_enabled": 0,
+    "autopause_end_time": 840,
+    "autopause_start_time": 120,
+    "autostart": 0,
+    "cpu_autopick": 1,
+    "enforce_position_limits": 1,
+    "nomination_timer": 60,
+    "pick_timer": 90,
+    "player_type": 0,
+    "reversal_round": 0,
+    "rounds": 16,
+    "slots_bn": 6,
+    "slots_def": 1,
+    "slots_flex": 2,
+    "slots_k": 1,
+    "slots_qb": 1,
+    "slots_rb": 2,
+    "slots_te": 1,
+    "slots_wr": 2,
+    "teams": 10
+  },
+  "slot_to_roster_id": {
+    "1": 1,
+    "10": 10,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9
+  },
+  "sport": "nfl",
+  "start_time": 1787869831000,
+  "status": "pre_draft",
+  "type": "snake"
+}
