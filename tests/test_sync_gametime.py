@@ -21,10 +21,19 @@ class BuildSnapshotTests(unittest.TestCase):
             "max_keepers_per_team": 1,
         }
         raw = {
-            "league": {"league_id": "league", "draft_id": "draft", "season": "2026"},
+            "league": {
+                "league_id": "league",
+                "draft_id": "draft",
+                "season": "2026",
+                "metadata": {"keeper_deadline": "7"},
+            },
             "users": [{"user_id": "user", "display_name": "Manager", "metadata": {"team_name": "Team"}}],
             "rosters": [{"roster_id": 1, "owner_id": "user", "players": ["10"], "keepers": ["10"]}],
-            "draft": {"draft_id": "draft", "draft_order": None},
+            "draft": {
+                "draft_id": "draft",
+                "draft_order": None,
+                "start_time": 1787869831000,
+            },
             "current_draft_picks": [],
             "previous_draft_picks": [{
                 "player_id": "10",
@@ -44,6 +53,17 @@ class BuildSnapshotTests(unittest.TestCase):
         self.assertEqual(keeper["player_name"], "Omarion Hampton")
         self.assertEqual(keeper["keeper_cost"]["round"], 3)
         self.assertFalse(snapshot["draft"]["order_is_set"])
+        self.assertEqual(snapshot["draft"]["schedule"]["start_time_utc"], "2026-08-27T22:30:31Z")
+        self.assertEqual(snapshot["draft"]["schedule"]["start_time_et"], "2026-08-27T18:30:31-04:00")
+        self.assertEqual(snapshot["draft"]["schedule"]["keeper_deadline_days_before_draft"], 7)
+        self.assertEqual(snapshot["draft"]["schedule"]["keeper_deadline_utc"], "2026-08-20T22:30:31Z")
+        self.assertEqual(snapshot["draft"]["schedule"]["keeper_deadline_et"], "2026-08-20T18:30:31-04:00")
+
+    def test_missing_keeper_deadline_does_not_invent_one(self):
+        schedule = sync_gametime.draft_schedule({}, {"start_time": 1787869831000})
+        self.assertIsNone(schedule["keeper_deadline_days_before_draft"])
+        self.assertIsNone(schedule["keeper_deadline_utc"])
+        self.assertIsNone(schedule["keeper_deadline_et"])
 
     def test_rejects_wrong_league(self):
         config = {
