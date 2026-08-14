@@ -10,9 +10,10 @@ import sys
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 API_ROOT = "https://api.sleeper.app/v1"
 ROOT = Path(__file__).resolve().parents[1]
@@ -20,6 +21,7 @@ DEFAULT_CONFIG = ROOT / "config" / "gametime.json"
 DEFAULT_OUTPUT = ROOT / "data" / "gametime-master.json"
 RAW_DIR = ROOT / "data" / "raw"
 PREVIOUS_SNAPSHOT = ROOT / "data" / "history" / "previous.json"
+LOCAL_TIMEZONE = ZoneInfo("America/New_York")
 
 
 class SyncError(RuntimeError):
@@ -49,6 +51,43 @@ def cleaned_name(value: Any) -> str | None:
 def stable_hash(value: Any) -> str:
     payload = json.dumps(value, sort_keys=True, separators=(",", ":"), ensure_ascii=False)
     return hashlib.sha256(payload.encode("utf-8")).hexdigest()
+
+
+def iso_utc(value: datetime) -> str:
+    return value.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def iso_local(value: datetime) -> str:
+    return value.astimezone(LOCAL_TIMEZONE).replace(microsecond=0).isoformat()
+
+
+def draft_schedule(league: dict[str, Any], draft: dict[str, Any]) -> dict[str, Any]:
+    start_time_ms = draft.get("start_time")
+    start_at = None
+    if isinstance(start_time_ms, (int, float)) and start_time_ms > 0:
+        start_at = datetime.fromtimestamp(start_time_ms / 1000, tz=timezone.utc)
+
+    keeper_deadline_raw = (league.get("metadata") or {}).get("keeper_deadline")
+    keeper_deadline_days = None
+    try:
+        if keeper_deadline_raw not in (None, ""):
+            keeper_deadline_days = int(keeper_deadline_raw)
+    except (TypeError, ValueError):
+        keeper_deadline_days = None
+
+    keeper_deadline_at = None
+    if start_at is not None and keeper_deadline_days is not None:
+        keeper_deadline_at = start_at - timedelta(days=keeper_deadline_days)
+
+    return {
+        "start_time_ms": int(start_time_ms) if isinstance(start_time_ms, (int, float)) else None,
+        "start_time_utc": iso_utc(start_at) if start_at else None,
+        "start_time_et": iso_local(start_at) if start_at else None,
+        "keeper_deadline_days_before_draft": keeper_deadline_days,
+        "keeper_deadline_utc": iso_utc(keeper_deadline_at) if keeper_deadline_at else None,
+        "keeper_deadline_et": iso_local(keeper_deadline_at) if keeper_deadline_at else None,
+        "keeper_deadline_source": "league.metadata.keeper_deadline",
+    }
 
 
 def keeper_player(picks_by_player: dict[str, dict[str, Any]], player_id: str) -> dict[str, Any]:
@@ -145,6 +184,7 @@ def build_snapshot(config: dict[str, Any], raw: dict[str, Any]) -> dict[str, Any
             "season": league.get("season"),
             "status": league.get("status"),
             "settings": league.get("settings"),
+            "metadata": league.get("metadata"),
             "scoring_settings": league.get("scoring_settings"),
             "roster_positions": league.get("roster_positions"),
         },
@@ -156,6 +196,7 @@ def build_snapshot(config: dict[str, Any], raw: dict[str, Any]) -> dict[str, Any
             "draft_order": draft.get("draft_order"),
             "slot_to_roster_id": draft.get("slot_to_roster_id"),
             "order_is_set": bool(draft.get("draft_order")),
+            "schedule": draft_schedule(league, draft),
             "picks": current_picks,
         },
         "teams": teams,
