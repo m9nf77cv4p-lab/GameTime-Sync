@@ -1,5 +1,5 @@
 {
-  "confirmed_keeper_count": 6,
+  "confirmed_keeper_count": 5,
   "confirmed_keepers": [
     {
       "confirmation_source": "league_rosters.keepers",
@@ -90,24 +90,6 @@
       "position": "WR",
       "roster_id": 9,
       "team_name": "Consecutive Collusions"
-    },
-    {
-      "confirmation_source": "league_rosters.keepers",
-      "confirmed": true,
-      "keeper_cost": {
-        "pick_no": 16,
-        "resolved": true,
-        "round": 2,
-        "rule": "original_2025_draft_round",
-        "source_draft_id": "1268005654409269248"
-      },
-      "manager": "Micknuggets24",
-      "nfl_team": "PHI",
-      "player_id": "5859",
-      "player_name": "A.J. Brown",
-      "position": "WR",
-      "roster_id": 10,
-      "team_name": "Micknuggets24"
     }
   ],
   "draft": {
@@ -380,8 +362,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-14T23:53:58Z",
-    "source_fingerprint": "4884a3d9f0a74b5b498b12f5c9730427e15b342079c06b83e9cab737158a1dc6"
+    "last_changed_at": "2026-08-17T23:49:01Z",
+    "source_fingerprint": "745fde8a7c18074c21a30eb65e198b385b5c556de9cf41194d827b13f2b1eed5"
   },
   "teams": [
     {
@@ -623,9 +605,7 @@
       "team_name": "Consecutive Collusions"
     },
     {
-      "confirmed_keeper_ids": [
-        "5859"
-      ],
+      "confirmed_keeper_ids": [],
       "manager": "Micknuggets24",
       "owner_user_id": "738615497108680704",
       "player_ids": [
