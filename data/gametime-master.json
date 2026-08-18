@@ -77,16 +77,16 @@
       "confirmation_source": "league_rosters.keepers",
       "confirmed": true,
       "keeper_cost": {
-        "pick_no": 82,
+        "pick_no": 2,
         "resolved": true,
-        "round": 9,
+        "round": 1,
         "rule": "original_2025_draft_round",
         "source_draft_id": "1268005654409269248"
       },
       "manager": "dpharaoh",
-      "nfl_team": "TB",
-      "player_id": "12514",
-      "player_name": "Emeka Egbuka",
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
       "position": "WR",
       "roster_id": 9,
       "team_name": "Consecutive Collusions"
@@ -362,8 +362,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-17T23:49:01Z",
-    "source_fingerprint": "745fde8a7c18074c21a30eb65e198b385b5c556de9cf41194d827b13f2b1eed5"
+    "last_changed_at": "2026-08-18T11:58:47Z",
+    "source_fingerprint": "7ce67162e3cc82d8a43d9bbc7c7b02c452e7131d305cbd5980c7e9c43e3db80e"
   },
   "teams": [
     {
@@ -579,7 +579,7 @@
     },
     {
       "confirmed_keeper_ids": [
-        "12514"
+        "7564"
       ],
       "manager": "dpharaoh",
       "owner_user_id": "738223517774020608",
