@@ -214,7 +214,9 @@
   },
   {
     "co_owners": null,
-    "keepers": null,
+    "keepers": [
+      "11564"
+    ],
     "league_id": "1385505283328966656",
     "metadata": {
       "p_nick_4034": "Christian McCalfinjury"

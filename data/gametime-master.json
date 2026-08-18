@@ -1,5 +1,5 @@
 {
-  "confirmed_keeper_count": 5,
+  "confirmed_keeper_count": 6,
   "confirmed_keepers": [
     {
       "confirmation_source": "league_rosters.keepers",
@@ -54,6 +54,24 @@
       "position": "RB",
       "roster_id": 4,
       "team_name": "Positive Lense"
+    },
+    {
+      "confirmation_source": "league_rosters.keepers",
+      "confirmed": true,
+      "keeper_cost": {
+        "pick_no": 160,
+        "resolved": true,
+        "round": 16,
+        "rule": "original_2025_draft_round",
+        "source_draft_id": "1268005654409269248"
+      },
+      "manager": "ringdime10",
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "roster_id": 5,
+      "team_name": "Make CMC Great Again"
     },
     {
       "confirmation_source": "league_rosters.keepers",
@@ -362,8 +380,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T11:58:47Z",
-    "source_fingerprint": "7ce67162e3cc82d8a43d9bbc7c7b02c452e7131d305cbd5980c7e9c43e3db80e"
+    "last_changed_at": "2026-08-18T14:07:39Z",
+    "source_fingerprint": "3b48f0895de26ac57a4fe80337e843125407168aa50ef560be61f1f8971f5f0b"
   },
   "teams": [
     {
@@ -475,7 +493,9 @@
       "team_name": "Positive Lense"
     },
     {
-      "confirmed_keeper_ids": [],
+      "confirmed_keeper_ids": [
+        "11564"
+      ],
       "manager": "ringdime10",
       "owner_user_id": "736434967562858496",
       "player_ids": [
