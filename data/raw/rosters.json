@@ -4,7 +4,7 @@
     "keepers": [
       "9224"
     ],
-    "league_id": "1385505283328966656",
+    "league_id": "1396356110482407424",
     "metadata": null,
     "owner_id": "727301621322706944",
     "player_map": null,
@@ -53,10 +53,8 @@
   },
   {
     "co_owners": null,
-    "keepers": [
-      "6813"
-    ],
-    "league_id": "1385505283328966656",
+    "keepers": null,
+    "league_id": "1396356110482407424",
     "metadata": {
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
@@ -111,10 +109,8 @@
   },
   {
     "co_owners": null,
-    "keepers": [
-      "12507"
-    ],
-    "league_id": "1385505283328966656",
+    "keepers": null,
+    "league_id": "1396356110482407424",
     "metadata": null,
     "owner_id": "727601365655810048",
     "player_map": null,
@@ -163,10 +159,8 @@
   },
   {
     "co_owners": null,
-    "keepers": [
-      "8138"
-    ],
-    "league_id": "1385505283328966656",
+    "keepers": null,
+    "league_id": "1396356110482407424",
     "metadata": null,
     "owner_id": "381483251186798592",
     "player_map": null,
@@ -216,10 +210,8 @@
   },
   {
     "co_owners": null,
-    "keepers": [
-      "11564"
-    ],
-    "league_id": "1385505283328966656",
+    "keepers": null,
+    "league_id": "1396356110482407424",
     "metadata": {
       "p_nick_4034": "Christian McCalfinjury"
     },
@@ -270,10 +262,8 @@
   },
   {
     "co_owners": null,
-    "keepers": [
-      "9488"
-    ],
-    "league_id": "1385505283328966656",
+    "keepers": null,
+    "league_id": "1396356110482407424",
     "metadata": null,
     "owner_id": "1132662781834113024",
     "player_map": null,
@@ -323,7 +313,7 @@
   {
     "co_owners": null,
     "keepers": null,
-    "league_id": "1385505283328966656",
+    "league_id": "1396356110482407424",
     "metadata": null,
     "owner_id": "728271749338251264",
     "player_map": null,
@@ -373,7 +363,7 @@
   {
     "co_owners": null,
     "keepers": null,
-    "league_id": "1385505283328966656",
+    "league_id": "1396356110482407424",
     "metadata": null,
     "owner_id": "738124656086831104",
     "player_map": null,
@@ -423,10 +413,8 @@
   },
   {
     "co_owners": null,
-    "keepers": [
-      "7564"
-    ],
-    "league_id": "1385505283328966656",
+    "keepers": null,
+    "league_id": "1396356110482407424",
     "metadata": {
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
@@ -495,10 +483,8 @@
   },
   {
     "co_owners": null,
-    "keepers": [
-      "5859"
-    ],
-    "league_id": "1385505283328966656",
+    "keepers": null,
+    "league_id": "1396356110482407424",
     "metadata": null,
     "owner_id": "738615497108680704",
     "player_map": null,

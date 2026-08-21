@@ -2,7 +2,7 @@
   "confirmed_keeper_count": 8,
   "confirmed_keepers": [
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "league_rosters.keepers+draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 24,
@@ -20,7 +20,7 @@
       "team_name": "LastchanceU"
     },
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 18,
@@ -38,7 +38,7 @@
       "team_name": "🥇⛪️ TheChristianing ⛪️🥇"
     },
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 30,
@@ -56,7 +56,7 @@
       "team_name": "Izear"
     },
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 33,
@@ -74,7 +74,7 @@
       "team_name": "Positive Lense"
     },
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 160,
@@ -92,7 +92,7 @@
       "team_name": "Make CMC Great Again"
     },
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 32,
@@ -110,7 +110,7 @@
       "team_name": "4for4s"
     },
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 2,
@@ -128,7 +128,7 @@
       "team_name": "Consecutive Collusions"
     },
     {
-      "confirmation_source": "league_rosters.keepers",
+      "confirmation_source": "draft.pre_draft_picks",
       "confirmed": true,
       "keeper_cost": {
         "pick_no": 16,
@@ -147,23 +147,243 @@
     }
   ],
   "draft": {
-    "draft_order": null,
+    "draft_order": {
+      "1132662781834113024": 9,
+      "381483251186798592": 7,
+      "563234061722038272": 2,
+      "727301621322706944": 1,
+      "727601365655810048": 6,
+      "728271749338251264": 3,
+      "736434967562858496": 8,
+      "738124656086831104": 5,
+      "738223517774020608": 10,
+      "738615497108680704": 4
+    },
     "metadata": {
       "description": "",
       "name": "Gametime",
       "scoring_type": "ppr",
       "show_team_names": "0"
     },
-    "order_is_set": false,
-    "picks": [],
+    "order_is_set": true,
+    "picks": [
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 10,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Ja'Marr",
+          "injury_status": "",
+          "last_name": "Chase",
+          "news_updated": "1786767654011",
+          "number": "1",
+          "player_id": "7564",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CIN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "5"
+        },
+        "pick_no": 10,
+        "picked_by": "738223517774020608",
+        "player_id": "7564",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 1
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "A.J.",
+          "injury_status": "",
+          "last_name": "Brown",
+          "news_updated": "1787167557699",
+          "number": "1",
+          "player_id": "5859",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NE",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "7"
+        },
+        "pick_no": 17,
+        "picked_by": "738615497108680704",
+        "player_id": "5859",
+        "reactions": null,
+        "roster_id": 10,
+        "round": 2
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 2,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jonathan",
+          "injury_status": "",
+          "last_name": "Taylor",
+          "news_updated": "1786904114183",
+          "number": "28",
+          "player_id": "6813",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "IND",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 19,
+        "picked_by": "563234061722038272",
+        "player_id": "6813",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 2
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 1,
+        "is_keeper": true,
+        "metadata": {
+          "first_name": "Chase",
+          "injury_status": "",
+          "last_name": "Brown",
+          "news_updated": "1786767354054",
+          "number": "30",
+          "player_id": "9224",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CIN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 21,
+        "picked_by": "727301621322706944",
+        "player_id": "9224",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 3
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Omarion",
+          "injury_status": "",
+          "last_name": "Hampton",
+          "news_updated": "1787150455521",
+          "number": "8",
+          "player_id": "12507",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LAC",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 26,
+        "picked_by": "727601365655810048",
+        "player_id": "12507",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 3
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jaxon",
+          "injury_status": "",
+          "last_name": "Smith-Njigba",
+          "news_updated": "1786585813265",
+          "number": "11",
+          "player_id": "9488",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SEA",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 32,
+        "picked_by": "1132662781834113024",
+        "player_id": "9488",
+        "reactions": null,
+        "roster_id": 6,
+        "round": 4
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "James",
+          "injury_status": "",
+          "last_name": "Cook",
+          "news_updated": "1786838705850",
+          "number": "4",
+          "player_id": "8138",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "BUF",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 34,
+        "picked_by": "381483251186798592",
+        "player_id": "8138",
+        "reactions": null,
+        "roster_id": 4,
+        "round": 4
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Drake",
+          "injury_status": "",
+          "last_name": "Maye",
+          "news_updated": "1786983934247",
+          "number": "10",
+          "player_id": "11564",
+          "position": "QB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NE",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 153,
+        "picked_by": "736434967562858496",
+        "player_id": "11564",
+        "reactions": null,
+        "roster_id": 5,
+        "round": 16
+      }
+    ],
     "schedule": {
-      "keeper_deadline_days_before_draft": 7,
-      "keeper_deadline_et": "2026-08-20T18:30:31-04:00",
+      "keeper_deadline_days_before_draft": 30,
+      "keeper_deadline_et": "2026-07-28T18:30:50-04:00",
       "keeper_deadline_source": "league.metadata.keeper_deadline",
-      "keeper_deadline_utc": "2026-08-20T22:30:31Z",
-      "start_time_et": "2026-08-27T18:30:31-04:00",
-      "start_time_ms": 1787869831000,
-      "start_time_utc": "2026-08-27T22:30:31Z"
+      "keeper_deadline_utc": "2026-07-28T22:30:50Z",
+      "start_time_et": "2026-08-27T18:30:50-04:00",
+      "start_time_ms": 1787869850000,
+      "start_time_utc": "2026-08-27T22:30:50Z"
     },
     "settings": {
       "alpha_sort": 0,
@@ -190,15 +410,15 @@
     },
     "slot_to_roster_id": {
       "1": 1,
-      "10": 10,
+      "10": 9,
       "2": 2,
-      "3": 3,
-      "4": 4,
-      "5": 5,
-      "6": 6,
-      "7": 7,
-      "8": 8,
-      "9": 9
+      "3": 7,
+      "4": 10,
+      "5": 8,
+      "6": 3,
+      "7": 4,
+      "8": 5,
+      "9": 6
     },
     "status": "pre_draft",
     "type": "snake"
@@ -206,8 +426,10 @@
   "league": {
     "metadata": {
       "auto_continue": "on",
+      "current_pick_no": "1",
       "is_open": "false",
-      "keeper_deadline": "7"
+      "keeper_deadline": "30",
+      "on_the_clock_user_id": "727301621322706944"
     },
     "name": "Gametime",
     "roster_positions": [
@@ -410,14 +632,14 @@
   "schema_version": 1,
   "source": {
     "authoritative": true,
-    "draft_id": "1385505283337367552",
-    "league_id": "1385505283328966656",
+    "draft_id": "1396356110490824704",
+    "league_id": "1396356110482407424",
     "previous_draft_id": "1268005654409269248",
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T21:57:37Z",
-    "source_fingerprint": "a26155da6ed94ade8540f09909ae1ff9fc36560d99851686194caf51215a63de"
+    "last_changed_at": "2026-08-21T02:58:24Z",
+    "source_fingerprint": "ba540573a3aa508b531d0f9a082c2fa6519bb499f10a81849b673aae1a46c4c7"
   },
   "teams": [
     {
