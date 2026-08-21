@@ -79,32 +79,6 @@
   },
   {
     "draft_id": "1396356110490824704",
-    "draft_slot": 1,
-    "is_keeper": true,
-    "metadata": {
-      "first_name": "Chase",
-      "injury_status": "",
-      "last_name": "Brown",
-      "news_updated": "1786767354054",
-      "number": "30",
-      "player_id": "9224",
-      "position": "RB",
-      "sport": "nfl",
-      "status": "Active",
-      "team": "CIN",
-      "team_abbr": "",
-      "team_changed_at": "",
-      "years_exp": "3"
-    },
-    "pick_no": 21,
-    "picked_by": "727301621322706944",
-    "player_id": "9224",
-    "reactions": null,
-    "roster_id": 1,
-    "round": 3
-  },
-  {
-    "draft_id": "1396356110490824704",
     "draft_slot": 6,
     "is_keeper": null,
     "metadata": {
@@ -132,28 +106,28 @@
   {
     "draft_id": "1396356110490824704",
     "draft_slot": 9,
-    "is_keeper": null,
+    "is_keeper": true,
     "metadata": {
-      "first_name": "Jaxon",
+      "first_name": "Chase",
       "injury_status": "",
-      "last_name": "Smith-Njigba",
-      "news_updated": "1786585813265",
-      "number": "11",
-      "player_id": "9488",
-      "position": "WR",
+      "last_name": "Brown",
+      "news_updated": "1786767354054",
+      "number": "30",
+      "player_id": "9224",
+      "position": "RB",
       "sport": "nfl",
       "status": "Active",
-      "team": "SEA",
+      "team": "CIN",
       "team_abbr": "",
       "team_changed_at": "",
       "years_exp": "3"
     },
-    "pick_no": 32,
-    "picked_by": "1132662781834113024",
-    "player_id": "9488",
+    "pick_no": 29,
+    "picked_by": "727301621322706944",
+    "player_id": "9224",
     "reactions": null,
-    "roster_id": 6,
-    "round": 4
+    "roster_id": 1,
+    "round": 3
   },
   {
     "draft_id": "1396356110490824704",
@@ -179,6 +153,32 @@
     "player_id": "8138",
     "reactions": null,
     "roster_id": 4,
+    "round": 4
+  },
+  {
+    "draft_id": "1396356110490824704",
+    "draft_slot": 1,
+    "is_keeper": null,
+    "metadata": {
+      "first_name": "Jaxon",
+      "injury_status": "",
+      "last_name": "Smith-Njigba",
+      "news_updated": "1786585813265",
+      "number": "11",
+      "player_id": "9488",
+      "position": "WR",
+      "sport": "nfl",
+      "status": "Active",
+      "team": "SEA",
+      "team_abbr": "",
+      "team_changed_at": "",
+      "years_exp": "3"
+    },
+    "pick_no": 40,
+    "picked_by": "1132662781834113024",
+    "player_id": "9488",
+    "reactions": null,
+    "roster_id": 6,
     "round": 4
   },
   {
