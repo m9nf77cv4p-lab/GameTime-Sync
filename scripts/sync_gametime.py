@@ -125,6 +125,11 @@ def build_snapshot(config: dict[str, Any], raw: dict[str, Any]) -> dict[str, Any
 
     users_by_id = {str(user["user_id"]): user for user in users}
     previous_by_player = {str(pick["player_id"]): pick for pick in previous_picks}
+    pre_draft_picks_by_roster: dict[int, list[str]] = {}
+    if draft.get("status") == "pre_draft":
+        for pick in current_picks:
+            roster_id = int(pick["roster_id"])
+            pre_draft_picks_by_roster.setdefault(roster_id, []).append(str(pick["player_id"]))
     teams: list[dict[str, Any]] = []
     keepers: list[dict[str, Any]] = []
 
@@ -136,7 +141,9 @@ def build_snapshot(config: dict[str, Any], raw: dict[str, Any]) -> dict[str, Any
             raise SyncError(f"Roster {roster_id} has no matching league user")
         manager = cleaned_name(user.get("display_name")) or cleaned_name(user.get("username"))
         team_name = cleaned_name((user.get("metadata") or {}).get("team_name")) or manager
-        keeper_ids = [str(value) for value in (roster.get("keepers") or [])]
+        roster_keeper_ids = [str(value) for value in (roster.get("keepers") or [])]
+        draft_keeper_ids = pre_draft_picks_by_roster.get(roster_id, [])
+        keeper_ids = list(dict.fromkeys(roster_keeper_ids + draft_keeper_ids))
         if len(keeper_ids) > int(config["max_keepers_per_team"]):
             raise SyncError(f"Roster {roster_id} exceeds the configured keeper limit")
         roster_players = [str(value) for value in (roster.get("players") or [])]
@@ -153,13 +160,21 @@ def build_snapshot(config: dict[str, Any], raw: dict[str, Any]) -> dict[str, Any
         })
         for player_id in keeper_ids:
             prior = previous_by_player.get(player_id)
+            in_roster_flags = player_id in roster_keeper_ids
+            in_pre_draft_picks = player_id in draft_keeper_ids
+            if in_roster_flags and in_pre_draft_picks:
+                confirmation_source = "league_rosters.keepers+draft.pre_draft_picks"
+            elif in_roster_flags:
+                confirmation_source = "league_rosters.keepers"
+            else:
+                confirmation_source = "draft.pre_draft_picks"
             keepers.append({
                 "roster_id": roster_id,
                 "team_name": team_name,
                 "manager": manager,
                 **keeper_player(previous_by_player, player_id),
                 "confirmed": True,
-                "confirmation_source": "league_rosters.keepers",
+                "confirmation_source": confirmation_source,
                 "keeper_cost": {
                     "rule": "original_2025_draft_round",
                     "round": prior.get("round") if prior else None,

@@ -65,6 +65,57 @@ class BuildSnapshotTests(unittest.TestCase):
         self.assertIsNone(schedule["keeper_deadline_utc"])
         self.assertIsNone(schedule["keeper_deadline_et"])
 
+    def test_pre_draft_pick_is_confirmed_keeper_after_league_rollover(self):
+        config = {
+            "league_id": "league",
+            "draft_id": "draft",
+            "previous_draft_id": "previous",
+            "season": "2026",
+            "expected_team_count": 1,
+            "max_keepers_per_team": 1,
+        }
+        prior_pick = {
+            "player_id": "10",
+            "round": 3,
+            "pick_no": 30,
+            "metadata": {"first_name": "Omarion", "last_name": "Hampton"},
+        }
+        raw = {
+            "league": {"league_id": "league", "draft_id": "draft", "season": "2026"},
+            "users": [{"user_id": "user", "display_name": "Manager", "metadata": {}}],
+            "rosters": [{"roster_id": 1, "owner_id": "user", "players": ["10"], "keepers": []}],
+            "draft": {"draft_id": "draft", "status": "pre_draft"},
+            "current_draft_picks": [{"roster_id": 1, "player_id": "10"}],
+            "previous_draft_picks": [prior_pick],
+        }
+        snapshot = sync_gametime.build_snapshot(config, raw)
+        self.assertEqual(snapshot["confirmed_keeper_count"], 1)
+        self.assertEqual(snapshot["teams"][0]["confirmed_keeper_ids"], ["10"])
+        self.assertEqual(
+            snapshot["confirmed_keepers"][0]["confirmation_source"],
+            "draft.pre_draft_picks",
+        )
+
+    def test_in_progress_draft_pick_is_not_a_keeper(self):
+        config = {
+            "league_id": "league",
+            "draft_id": "draft",
+            "previous_draft_id": "previous",
+            "season": "2026",
+            "expected_team_count": 1,
+            "max_keepers_per_team": 1,
+        }
+        raw = {
+            "league": {"league_id": "league", "draft_id": "draft", "season": "2026"},
+            "users": [{"user_id": "user", "display_name": "Manager", "metadata": {}}],
+            "rosters": [{"roster_id": 1, "owner_id": "user", "players": ["10"], "keepers": []}],
+            "draft": {"draft_id": "draft", "status": "drafting"},
+            "current_draft_picks": [{"roster_id": 1, "player_id": "10"}],
+            "previous_draft_picks": [],
+        }
+        snapshot = sync_gametime.build_snapshot(config, raw)
+        self.assertEqual(snapshot["confirmed_keeper_count"], 0)
+
     def test_rejects_wrong_league(self):
         config = {
             "league_id": "right",
