@@ -638,8 +638,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-21T19:08:28Z",
-    "source_fingerprint": "1d6e265fc2bd5f8abe536d60bc9ac704a699507e2251024094f335e0a48cf6b6"
+    "last_changed_at": "2026-08-22T20:51:39Z",
+    "source_fingerprint": "bf630169ea2643a34f106c99fa4f1f1b647fad06112265aab0015880e4d944be"
   },
   "teams": [
     {
@@ -800,7 +800,6 @@
         "8137",
         "8150",
         "9488",
-        "96",
         "DEN"
       ],
       "roster_id": 6,

@@ -148,10 +148,10 @@
   ],
   "draft": {
     "draft_order": {
-      "1132662781834113024": 9,
+      "1132662781834113024": 1,
       "381483251186798592": 7,
       "563234061722038272": 2,
-      "727301621322706944": 1,
+      "727301621322706944": 9,
       "727601365655810048": 6,
       "728271749338251264": 3,
       "736434967562858496": 8,
@@ -247,32 +247,6 @@
       },
       {
         "draft_id": "1396356110490824704",
-        "draft_slot": 1,
-        "is_keeper": true,
-        "metadata": {
-          "first_name": "Chase",
-          "injury_status": "",
-          "last_name": "Brown",
-          "news_updated": "1786767354054",
-          "number": "30",
-          "player_id": "9224",
-          "position": "RB",
-          "sport": "nfl",
-          "status": "Active",
-          "team": "CIN",
-          "team_abbr": "",
-          "team_changed_at": "",
-          "years_exp": "3"
-        },
-        "pick_no": 21,
-        "picked_by": "727301621322706944",
-        "player_id": "9224",
-        "reactions": null,
-        "roster_id": 1,
-        "round": 3
-      },
-      {
-        "draft_id": "1396356110490824704",
         "draft_slot": 6,
         "is_keeper": null,
         "metadata": {
@@ -300,28 +274,28 @@
       {
         "draft_id": "1396356110490824704",
         "draft_slot": 9,
-        "is_keeper": null,
+        "is_keeper": true,
         "metadata": {
-          "first_name": "Jaxon",
+          "first_name": "Chase",
           "injury_status": "",
-          "last_name": "Smith-Njigba",
-          "news_updated": "1786585813265",
-          "number": "11",
-          "player_id": "9488",
-          "position": "WR",
+          "last_name": "Brown",
+          "news_updated": "1786767354054",
+          "number": "30",
+          "player_id": "9224",
+          "position": "RB",
           "sport": "nfl",
           "status": "Active",
-          "team": "SEA",
+          "team": "CIN",
           "team_abbr": "",
           "team_changed_at": "",
           "years_exp": "3"
         },
-        "pick_no": 32,
-        "picked_by": "1132662781834113024",
-        "player_id": "9488",
+        "pick_no": 29,
+        "picked_by": "727301621322706944",
+        "player_id": "9224",
         "reactions": null,
-        "roster_id": 6,
-        "round": 4
+        "roster_id": 1,
+        "round": 3
       },
       {
         "draft_id": "1396356110490824704",
@@ -347,6 +321,32 @@
         "player_id": "8138",
         "reactions": null,
         "roster_id": 4,
+        "round": 4
+      },
+      {
+        "draft_id": "1396356110490824704",
+        "draft_slot": 1,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jaxon",
+          "injury_status": "",
+          "last_name": "Smith-Njigba",
+          "news_updated": "1786585813265",
+          "number": "11",
+          "player_id": "9488",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SEA",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 40,
+        "picked_by": "1132662781834113024",
+        "player_id": "9488",
+        "reactions": null,
+        "roster_id": 6,
         "round": 4
       },
       {
@@ -409,7 +409,7 @@
       "teams": 10
     },
     "slot_to_roster_id": {
-      "1": 1,
+      "1": 6,
       "10": 9,
       "2": 2,
       "3": 7,
@@ -418,7 +418,7 @@
       "6": 3,
       "7": 4,
       "8": 5,
-      "9": 6
+      "9": 1
     },
     "status": "pre_draft",
     "type": "snake"
@@ -429,7 +429,7 @@
       "current_pick_no": "1",
       "is_open": "false",
       "keeper_deadline": "30",
-      "on_the_clock_user_id": "727301621322706944"
+      "on_the_clock_user_id": "1132662781834113024"
     },
     "name": "Gametime",
     "roster_positions": [
@@ -638,8 +638,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-21T02:58:24Z",
-    "source_fingerprint": "ba540573a3aa508b531d0f9a082c2fa6519bb499f10a81849b673aae1a46c4c7"
+    "last_changed_at": "2026-08-21T19:08:28Z",
+    "source_fingerprint": "1d6e265fc2bd5f8abe536d60bc9ac704a699507e2251024094f335e0a48cf6b6"
   },
   "teams": [
     {
