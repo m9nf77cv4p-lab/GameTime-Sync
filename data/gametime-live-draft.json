@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871409856,
+    "last_picked": 1787871537163,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -814,6 +814,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Nico",
+        "injury_status": "",
+        "last_name": "Collins",
+        "news_updated": "1787598940015",
+        "number": "12",
+        "player_id": "7569",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "HOU",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 15,
+      "picked_by": "727601365655810048",
+      "player_id": "7569",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 2
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 4,
       "is_keeper": null,
       "metadata": {
@@ -1006,7 +1032,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T22:59:04Z",
+    "last_success_at": "2026-08-27T22:59:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
