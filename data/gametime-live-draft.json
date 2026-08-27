@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871245371,
+    "last_picked": 1787871260853,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -710,6 +710,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 10,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Saquon",
+        "injury_status": "",
+        "last_name": "Barkley",
+        "news_updated": "1787257531516",
+        "number": "26",
+        "player_id": "4866",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "PHI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 11,
+      "picked_by": "738223517774020608",
+      "player_id": "4866",
+      "reactions": null,
+      "roster_id": 9,
+      "round": 2
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 4,
       "is_keeper": null,
       "metadata": {
@@ -902,7 +928,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T22:54:34Z",
+    "last_success_at": "2026-08-27T22:55:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
