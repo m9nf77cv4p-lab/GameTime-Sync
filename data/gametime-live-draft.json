@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787874314842,
+    "last_picked": 1787874392291,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1984,6 +1984,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Tyler",
+        "injury_status": "Questionable",
+        "last_name": "Warren",
+        "news_updated": "1787767250313",
+        "number": "84",
+        "player_id": "12518",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "IND",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "1"
+      },
+      "pick_no": 60,
+      "picked_by": "1132662781834113024",
+      "player_id": "12518",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 6
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2020,7 +2046,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:46:04Z",
+    "last_success_at": "2026-08-27T23:46:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
