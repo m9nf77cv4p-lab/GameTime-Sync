@@ -1724,6 +1724,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 10,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Bhayshul",
+        "injury_status": "",
+        "last_name": "Tuten",
+        "news_updated": "1787673047357",
+        "number": "33",
+        "player_id": "12490",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "JAX",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "1"
+      },
+      "pick_no": 50,
+      "picked_by": "738223517774020608",
+      "player_id": "12490",
+      "reactions": null,
+      "roster_id": 9,
+      "round": 5
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 10,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "DJ",
+        "injury_status": "",
+        "last_name": "Moore",
+        "news_updated": "1787634043435",
+        "number": "2",
+        "player_id": "4983",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "BUF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 51,
+      "picked_by": "738223517774020608",
+      "player_id": "4983",
+      "reactions": null,
+      "roster_id": 9,
+      "round": 6
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1760,7 +1812,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:34:49Z",
+    "last_success_at": "2026-08-27T23:35:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
