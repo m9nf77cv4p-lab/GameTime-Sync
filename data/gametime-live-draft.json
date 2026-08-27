@@ -2325,6 +2325,32 @@
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
+        "first_name": "RJ",
+        "injury_status": "",
+        "last_name": "Harvey",
+        "news_updated": "1787715642672",
+        "number": "12",
+        "player_id": "12489",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DEN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "1"
+      },
+      "pick_no": 73,
+      "picked_by": "736434967562858496",
+      "player_id": "12489",
+      "reactions": null,
+      "roster_id": 5,
+      "round": 8
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 8,
+      "is_keeper": null,
+      "metadata": {
         "first_name": "Drake",
         "injury_status": "",
         "last_name": "Maye",
@@ -2358,7 +2384,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:58:49Z",
+    "last_success_at": "2026-08-27T23:59:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
