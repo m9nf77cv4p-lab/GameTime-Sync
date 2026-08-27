@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787873706253,
+    "last_picked": 1787873746051,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1805,6 +1805,32 @@
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
+        "first_name": "Davante",
+        "injury_status": "",
+        "last_name": "Adams",
+        "news_updated": "1787677204527",
+        "number": "17",
+        "player_id": "2133",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "LAR",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "12"
+      },
+      "pick_no": 53,
+      "picked_by": "736434967562858496",
+      "player_id": "2133",
+      "reactions": null,
+      "roster_id": 5,
+      "round": 6
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 8,
+      "is_keeper": null,
+      "metadata": {
         "first_name": "Drake",
         "injury_status": "",
         "last_name": "Maye",
@@ -1838,7 +1864,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:35:34Z",
+    "last_success_at": "2026-08-27T23:36:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
