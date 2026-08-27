@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871537163,
+    "last_picked": 1787871570882,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -840,6 +840,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Drake",
+        "injury_status": "",
+        "last_name": "London",
+        "news_updated": "1787538934737",
+        "number": "5",
+        "player_id": "8112",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "ATL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 16,
+      "picked_by": "738124656086831104",
+      "player_id": "8112",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 2
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 4,
       "is_keeper": null,
       "metadata": {
@@ -1032,7 +1058,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T22:59:34Z",
+    "last_success_at": "2026-08-27T23:00:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
