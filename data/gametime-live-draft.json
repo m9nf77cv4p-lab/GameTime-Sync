@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787874104983,
+    "last_picked": 1787874194917,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1906,6 +1906,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Zay",
+        "injury_status": "Questionable",
+        "last_name": "Flowers",
+        "news_updated": "1787766347903",
+        "number": "4",
+        "player_id": "9997",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "BAL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 57,
+      "picked_by": "738615497108680704",
+      "player_id": "9997",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 6
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1942,7 +1968,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:43:34Z",
+    "last_success_at": "2026-08-27T23:43:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
