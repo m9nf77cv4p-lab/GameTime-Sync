@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787874194917,
+    "last_picked": 1787874303910,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1932,6 +1932,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Terry",
+        "injury_status": "",
+        "last_name": "McLaurin",
+        "news_updated": "1787718042797",
+        "number": "17",
+        "player_id": "5927",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "WAS",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "7"
+      },
+      "pick_no": 58,
+      "picked_by": "728271749338251264",
+      "player_id": "5927",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 6
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1968,7 +1994,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:45:04Z",
+    "last_success_at": "2026-08-27T23:45:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
