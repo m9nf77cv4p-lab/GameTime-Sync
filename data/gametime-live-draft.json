@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871079438,
+    "last_picked": 1787871156506,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -580,6 +580,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Amon-Ra",
+        "injury_status": "",
+        "last_name": "St. Brown",
+        "news_updated": "1787841350262",
+        "number": "14",
+        "player_id": "7547",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DET",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 6,
+      "picked_by": "727601365655810048",
+      "player_id": "7547",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 1
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 10,
       "is_keeper": null,
       "metadata": {
@@ -798,7 +824,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T22:52:19Z",
+    "last_success_at": "2026-08-27T22:53:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
