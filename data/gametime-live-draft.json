@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787872083454,
+    "last_picked": 1787872107781,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -239,10 +239,10 @@
     "loser_bracket_overrides_id": null,
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "23",
+      "current_pick_no": "30",
       "is_open": "false",
       "keeper_deadline": "30",
-      "on_the_clock_user_id": "728271749338251264"
+      "on_the_clock_user_id": "738223517774020608"
     },
     "name": "Gametime",
     "previous_league_id": "1268005654392487937",
@@ -1152,6 +1152,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 8,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Rashee",
+        "injury_status": "",
+        "last_name": "Rice",
+        "news_updated": "1787329837287",
+        "number": "4",
+        "player_id": "10229",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "KC",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 28,
+      "picked_by": "736434967562858496",
+      "player_id": "10229",
+      "reactions": null,
+      "roster_id": 5,
+      "round": 3
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 9,
       "is_keeper": true,
       "metadata": {
@@ -1266,7 +1292,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:08:34Z",
+    "last_success_at": "2026-08-27T23:09:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
