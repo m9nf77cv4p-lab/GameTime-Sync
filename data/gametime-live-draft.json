@@ -1698,6 +1698,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 9,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jaylen",
+        "injury_status": "",
+        "last_name": "Waddle",
+        "news_updated": "1787715942585",
+        "number": "17",
+        "player_id": "7526",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DEN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 49,
+      "picked_by": "727301621322706944",
+      "player_id": "7526",
+      "reactions": null,
+      "roster_id": 1,
+      "round": 5
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1734,7 +1760,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:34:04Z",
+    "last_success_at": "2026-08-27T23:34:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
