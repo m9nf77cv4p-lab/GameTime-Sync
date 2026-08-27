@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871068495,
+    "last_picked": 1787871079438,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -554,6 +554,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "CeeDee",
+        "injury_status": "",
+        "last_name": "Lamb",
+        "news_updated": "1787019938269",
+        "number": "88",
+        "player_id": "6786",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DAL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "6"
+      },
+      "pick_no": 5,
+      "picked_by": "738124656086831104",
+      "player_id": "6786",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 1
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 10,
       "is_keeper": null,
       "metadata": {
@@ -772,7 +798,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T22:51:34Z",
+    "last_success_at": "2026-08-27T22:52:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
