@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787873666279,
+    "last_picked": 1787873706253,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -239,10 +239,10 @@
     "loser_bracket_overrides_id": null,
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "47",
+      "current_pick_no": "53",
       "is_open": "false",
       "keeper_deadline": "30",
-      "on_the_clock_user_id": "381483251186798592"
+      "on_the_clock_user_id": "736434967562858496"
     },
     "name": "Gametime",
     "previous_league_id": "1268005654392487937",
@@ -1776,6 +1776,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 9,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Parker",
+        "injury_status": "",
+        "last_name": "Washington",
+        "news_updated": "1787768448187",
+        "number": "11",
+        "player_id": "9487",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "JAX",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 52,
+      "picked_by": "727301621322706944",
+      "player_id": "9487",
+      "reactions": null,
+      "roster_id": 1,
+      "round": 6
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1812,7 +1838,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:35:04Z",
+    "last_success_at": "2026-08-27T23:35:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
