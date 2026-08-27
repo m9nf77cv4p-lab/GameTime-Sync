@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787869049128,
+    "last_picked": 1787871019833,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -450,6 +450,84 @@
   "picks": [
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jahmyr",
+        "injury_status": "",
+        "last_name": "Gibbs",
+        "news_updated": "1787807460056",
+        "number": "0",
+        "player_id": "9221",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DET",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 1,
+      "picked_by": "1132662781834113024",
+      "player_id": "9221",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 1
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Bijan",
+        "injury_status": "",
+        "last_name": "Robinson",
+        "news_updated": "1787794258583",
+        "number": "7",
+        "player_id": "9509",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "ATL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 2,
+      "picked_by": "563234061722038272",
+      "player_id": "9509",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 1
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Puka",
+        "injury_status": "Questionable",
+        "last_name": "Nacua",
+        "news_updated": "1787686239599",
+        "number": "12",
+        "player_id": "9493",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "LAR",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 3,
+      "picked_by": "728271749338251264",
+      "player_id": "9493",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 1
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 10,
       "is_keeper": null,
       "metadata": {
@@ -668,7 +746,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T22:50:19Z",
+    "last_success_at": "2026-08-27T22:50:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
