@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787873746051,
+    "last_picked": 1787873831858,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1828,6 +1828,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 7,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Christian",
+        "injury_status": "",
+        "last_name": "Watson",
+        "news_updated": "1787633443238",
+        "number": "9",
+        "player_id": "8167",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "GB",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 54,
+      "picked_by": "381483251186798592",
+      "player_id": "8167",
+      "reactions": null,
+      "roster_id": 4,
+      "round": 6
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1864,7 +1890,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:37:34Z",
+    "last_success_at": "2026-08-27T23:37:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
