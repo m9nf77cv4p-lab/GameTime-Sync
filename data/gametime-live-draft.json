@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787874392291,
+    "last_picked": 1787874405493,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -2010,6 +2010,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Luther",
+        "injury_status": "Questionable",
+        "last_name": "Burden",
+        "news_updated": "1787766048006",
+        "number": "10",
+        "player_id": "12519",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CHI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "1"
+      },
+      "pick_no": 61,
+      "picked_by": "1132662781834113024",
+      "player_id": "12519",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 7
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "TreVeyon",
+        "injury_status": "Questionable",
+        "last_name": "Henderson",
+        "news_updated": "1787872556009",
+        "number": "32",
+        "player_id": "12529",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "NE",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "1"
+      },
+      "pick_no": 62,
+      "picked_by": "563234061722038272",
+      "player_id": "12529",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 7
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2046,7 +2098,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:46:49Z",
+    "last_success_at": "2026-08-27T23:47:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
