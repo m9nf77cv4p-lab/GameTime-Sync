@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871718659,
+    "last_picked": 1787871816229,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -239,10 +239,10 @@
     "loser_bracket_overrides_id": null,
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "15",
+      "current_pick_no": "23",
       "is_open": "false",
       "keeper_deadline": "30",
-      "on_the_clock_user_id": "727601365655810048"
+      "on_the_clock_user_id": "728271749338251264"
     },
     "name": "Gametime",
     "previous_league_id": "1268005654392487937",
@@ -944,6 +944,84 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Javonte",
+        "injury_status": "",
+        "last_name": "Williams",
+        "news_updated": "1787677503771",
+        "number": "33",
+        "player_id": "7588",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DAL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 20,
+      "picked_by": "1132662781834113024",
+      "player_id": "7588",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 2
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Ladd",
+        "injury_status": "",
+        "last_name": "McConkey",
+        "news_updated": "1787754946616",
+        "number": "15",
+        "player_id": "11635",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "LAC",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 21,
+      "picked_by": "1132662781834113024",
+      "player_id": "11635",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 3
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Trey",
+        "injury_status": "",
+        "last_name": "McBride",
+        "news_updated": "1787773548642",
+        "number": "85",
+        "player_id": "8130",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "ARI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 22,
+      "picked_by": "563234061722038272",
+      "player_id": "8130",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 3
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 6,
       "is_keeper": null,
       "metadata": {
@@ -1084,7 +1162,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:03:49Z",
+    "last_success_at": "2026-08-27T23:04:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
