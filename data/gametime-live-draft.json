@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871816229,
+    "last_picked": 1787871929421,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1022,6 +1022,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "George",
+        "injury_status": "",
+        "last_name": "Pickens",
+        "news_updated": "1787752546416",
+        "number": "3",
+        "player_id": "8137",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DAL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 23,
+      "picked_by": "728271749338251264",
+      "player_id": "8137",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 3
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 6,
       "is_keeper": null,
       "metadata": {
@@ -1162,7 +1188,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:05:19Z",
+    "last_success_at": "2026-08-27T23:06:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
