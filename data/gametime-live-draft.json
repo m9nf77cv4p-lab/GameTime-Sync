@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787872639315,
+    "last_picked": 1787872738664,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -239,10 +239,10 @@
     "loser_bracket_overrides_id": null,
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "36",
+      "current_pick_no": "43",
       "is_open": "false",
       "keeper_deadline": "30",
-      "on_the_clock_user_id": "738124656086831104"
+      "on_the_clock_user_id": "728271749338251264"
     },
     "name": "Gametime",
     "previous_league_id": "1268005654392487937",
@@ -1490,6 +1490,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "David",
+        "injury_status": "",
+        "last_name": "Montgomery",
+        "news_updated": "1787327437460",
+        "number": "32",
+        "player_id": "5892",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "HOU",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "7"
+      },
+      "pick_no": 41,
+      "picked_by": "1132662781834113024",
+      "player_id": "5892",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 5
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Tetairoa",
+        "injury_status": "",
+        "last_name": "McMillan",
+        "news_updated": "1787367930425",
+        "number": "4",
+        "player_id": "12526",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CAR",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "1"
+      },
+      "pick_no": 42,
+      "picked_by": "563234061722038272",
+      "player_id": "12526",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 5
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1526,7 +1578,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:19:34Z",
+    "last_success_at": "2026-08-27T23:19:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
