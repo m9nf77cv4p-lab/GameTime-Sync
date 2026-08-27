@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787872738664,
+    "last_picked": 1787872898843,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1542,6 +1542,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "D'Andre",
+        "injury_status": "",
+        "last_name": "Swift",
+        "news_updated": "1787843150405",
+        "number": "4",
+        "player_id": "6790",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CHI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "6"
+      },
+      "pick_no": 43,
+      "picked_by": "728271749338251264",
+      "player_id": "6790",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 5
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1578,7 +1604,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:21:04Z",
+    "last_success_at": "2026-08-27T23:22:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
