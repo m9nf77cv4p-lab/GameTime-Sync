@@ -1,0 +1,41 @@
+name: Live GameTime Draft
+
+on:
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: 'Maximum runtime in minutes (1–240); stops early on completion'
+        type: number
+        default: 240
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gametime-sleeper-sync
+  cancel-in-progress: false
+
+jobs:
+  live:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 250
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test before polling
+        run: python -m unittest discover -s tests -v
+      - name: Configure publisher
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Poll and publish live draft
+        env:
+          LIVE_MINUTES: ${{ inputs.minutes }}
+        run: python scripts/live_draft.py --interval 15 --minutes "$LIVE_MINUTES" --publish
