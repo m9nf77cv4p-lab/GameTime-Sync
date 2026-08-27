@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787872898843,
+    "last_picked": 1787873013655,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -1568,6 +1568,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Josh",
+        "injury_status": "",
+        "last_name": "Allen",
+        "news_updated": "1787676047663",
+        "number": "17",
+        "player_id": "4984",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "BUF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 44,
+      "picked_by": "738615497108680704",
+      "player_id": "4984",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 5
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -1604,7 +1630,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:23:19Z",
+    "last_success_at": "2026-08-27T23:24:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
