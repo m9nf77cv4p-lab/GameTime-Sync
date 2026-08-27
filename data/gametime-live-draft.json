@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787874577286,
+    "last_picked": 1787874703329,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -2088,6 +2088,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Mike",
+        "injury_status": "Questionable",
+        "last_name": "Evans",
+        "news_updated": "1787789458328",
+        "number": "5",
+        "player_id": "2216",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "SF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "12"
+      },
+      "pick_no": 64,
+      "picked_by": "738615497108680704",
+      "player_id": "2216",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 7
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Carnell",
+        "injury_status": "",
+        "last_name": "Tate",
+        "news_updated": "1787852451514",
+        "number": "14",
+        "player_id": "13279",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "TEN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "0"
+      },
+      "pick_no": 65,
+      "picked_by": "738124656086831104",
+      "player_id": "13279",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 7
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2124,7 +2176,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T23:51:19Z",
+    "last_success_at": "2026-08-27T23:52:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
