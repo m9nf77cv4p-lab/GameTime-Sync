@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787871260853,
+    "last_picked": 1787871338671,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -736,6 +736,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 9,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "De'Von",
+        "injury_status": "",
+        "last_name": "Achane",
+        "news_updated": "1787751946293",
+        "number": "28",
+        "player_id": "9226",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "MIA",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 12,
+      "picked_by": "727301621322706944",
+      "player_id": "9226",
+      "reactions": null,
+      "roster_id": 1,
+      "round": 2
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 8,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Kenneth",
+        "injury_status": "Questionable",
+        "last_name": "Walker",
+        "news_updated": "1787769348309",
+        "number": "9",
+        "player_id": "8151",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "KC",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 13,
+      "picked_by": "736434967562858496",
+      "player_id": "8151",
+      "reactions": null,
+      "roster_id": 5,
+      "round": 2
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 4,
       "is_keeper": null,
       "metadata": {
@@ -928,7 +980,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-27T22:55:19Z",
+    "last_success_at": "2026-08-27T22:56:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
