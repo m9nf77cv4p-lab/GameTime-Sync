@@ -2478,6 +2478,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jonathon",
+        "injury_status": "",
+        "last_name": "Brooks",
+        "news_updated": "1787770248355",
+        "number": "25",
+        "player_id": "11583",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CAR",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 79,
+      "picked_by": "563234061722038272",
+      "player_id": "11583",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 8
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2514,7 +2540,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:06:19Z",
+    "last_success_at": "2026-08-28T00:06:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
