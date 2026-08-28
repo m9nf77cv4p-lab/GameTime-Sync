@@ -4477,6 +4477,58 @@
       "reactions": null,
       "roster_id": 3,
       "round": 16
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Kaytron",
+        "injury_status": "",
+        "last_name": "Allen",
+        "news_updated": "1787837449758",
+        "number": "31",
+        "player_id": "13405",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "WAS",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "0"
+      },
+      "pick_no": 156,
+      "picked_by": "738124656086831104",
+      "player_id": "13405",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 16
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Tyjae",
+        "injury_status": "",
+        "last_name": "Spears",
+        "news_updated": "1787545236144",
+        "number": "2",
+        "player_id": "9508",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "TEN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 157,
+      "picked_by": "738615497108680704",
+      "player_id": "9508",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 16
     }
   ],
   "schema_version": 1,
@@ -4490,7 +4542,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T01:01:34Z",
+    "last_success_at": "2026-08-28T01:02:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
