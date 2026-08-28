@@ -2530,6 +2530,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "De'Zhaun",
+        "injury_status": "Questionable",
+        "last_name": "Stribling",
+        "news_updated": "1787874054711",
+        "number": "15",
+        "player_id": "13417",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "SF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "0"
+      },
+      "pick_no": 81,
+      "picked_by": "1132662781834113024",
+      "player_id": "13417",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 9
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2566,7 +2592,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:07:49Z",
+    "last_success_at": "2026-08-28T00:08:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
