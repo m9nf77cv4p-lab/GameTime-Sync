@@ -638,8 +638,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-22T20:51:39Z",
-    "source_fingerprint": "bf630169ea2643a34f106c99fa4f1f1b647fad06112265aab0015880e4d944be"
+    "last_changed_at": "2026-08-26T08:02:29Z",
+    "source_fingerprint": "dce056ba7a5e30e7efe6ccb1375558d8ce1ddb637f600b9f0f5674c1e70eda3d"
   },
   "teams": [
     {
@@ -835,7 +835,6 @@
       "manager": "dlparraway",
       "owner_user_id": "738124656086831104",
       "player_ids": [
-        "10236",
         "4018",
         "4227",
         "4943",
