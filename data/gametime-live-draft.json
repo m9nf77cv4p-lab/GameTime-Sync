@@ -3284,6 +3284,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 10,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Aaron",
+        "injury_status": "",
+        "last_name": "Jones",
+        "news_updated": "1787537734531",
+        "number": "33",
+        "player_id": "4199",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "MIN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "9"
+      },
+      "pick_no": 110,
+      "picked_by": "738223517774020608",
+      "player_id": "4199",
+      "reactions": null,
+      "roster_id": 9,
+      "round": 11
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 10,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Mike",
+        "injury_status": "",
+        "last_name": "Washington",
+        "news_updated": "1787716242594",
+        "number": "30",
+        "player_id": "13305",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "LV",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "0"
+      },
+      "pick_no": 111,
+      "picked_by": "738223517774020608",
+      "player_id": "13305",
+      "reactions": null,
+      "roster_id": 9,
+      "round": 12
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3320,7 +3372,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:36:04Z",
+    "last_success_at": "2026-08-28T00:36:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
