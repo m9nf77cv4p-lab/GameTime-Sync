@@ -3622,6 +3622,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Philadelphia",
+        "injury_status": "",
+        "last_name": "Eagles",
+        "news_updated": "",
+        "number": "",
+        "player_id": "PHI",
+        "position": "DEF",
+        "sport": "nfl",
+        "status": "",
+        "team": "PHI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": ""
+      },
+      "pick_no": 123,
+      "picked_by": "728271749338251264",
+      "player_id": "PHI",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 13
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3658,7 +3684,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:43:49Z",
+    "last_success_at": "2026-08-28T00:44:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
