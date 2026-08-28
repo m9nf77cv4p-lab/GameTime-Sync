@@ -2868,6 +2868,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 7,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Deebo",
+        "injury_status": "",
+        "last_name": "Samuel",
+        "news_updated": "1787290556300",
+        "number": "19",
+        "player_id": "5872",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "SF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "7"
+      },
+      "pick_no": 94,
+      "picked_by": "381483251186798592",
+      "player_id": "5872",
+      "reactions": null,
+      "roster_id": 4,
+      "round": 10
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2904,7 +2930,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:19:04Z",
+    "last_success_at": "2026-08-28T00:19:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
