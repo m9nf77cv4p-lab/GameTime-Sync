@@ -239,10 +239,10 @@
     "loser_bracket_overrides_id": null,
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "115",
+      "current_pick_no": "123",
       "is_open": "false",
       "keeper_deadline": "30",
-      "on_the_clock_user_id": "727601365655810048"
+      "on_the_clock_user_id": "728271749338251264"
     },
     "name": "Gametime",
     "previous_league_id": "1268005654392487937",
@@ -3658,7 +3658,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:43:34Z",
+    "last_success_at": "2026-08-28T00:43:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
