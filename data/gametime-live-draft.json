@@ -3336,6 +3336,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 9,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "KC",
+        "injury_status": "",
+        "last_name": "Concepcion",
+        "news_updated": "1787321436183",
+        "number": "1",
+        "player_id": "13298",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CLE",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "0"
+      },
+      "pick_no": 112,
+      "picked_by": "727301621322706944",
+      "player_id": "13298",
+      "reactions": null,
+      "roster_id": 1,
+      "round": 12
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 8,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Seattle",
+        "injury_status": "",
+        "last_name": "Seahawks",
+        "news_updated": "",
+        "number": "",
+        "player_id": "SEA",
+        "position": "DEF",
+        "sport": "nfl",
+        "status": "",
+        "team": "SEA",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": ""
+      },
+      "pick_no": 113,
+      "picked_by": "736434967562858496",
+      "player_id": "SEA",
+      "reactions": null,
+      "roster_id": 5,
+      "round": 12
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3372,7 +3424,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:36:49Z",
+    "last_success_at": "2026-08-28T00:37:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
