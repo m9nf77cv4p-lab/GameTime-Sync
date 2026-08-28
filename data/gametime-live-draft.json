@@ -2660,6 +2660,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Brian",
+        "injury_status": "Questionable",
+        "last_name": "Thomas",
+        "news_updated": "1787753146553",
+        "number": "7",
+        "player_id": "11631",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "JAX",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 86,
+      "picked_by": "727601365655810048",
+      "player_id": "11631",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 9
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2696,7 +2722,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:13:49Z",
+    "last_success_at": "2026-08-28T00:14:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
