@@ -3986,6 +3986,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Baker",
+        "injury_status": "",
+        "last_name": "Mayfield",
+        "news_updated": "1787677503770",
+        "number": "6",
+        "player_id": "4892",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "TB",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 137,
+      "picked_by": "738615497108680704",
+      "player_id": "4892",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 14
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Tank",
+        "injury_status": "Questionable",
+        "last_name": "Dell",
+        "news_updated": "1787682039234",
+        "number": "1",
+        "player_id": "9502",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "HOU",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 138,
+      "picked_by": "728271749338251264",
+      "player_id": "9502",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 14
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -4022,7 +4074,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:54:19Z",
+    "last_success_at": "2026-08-28T00:54:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
