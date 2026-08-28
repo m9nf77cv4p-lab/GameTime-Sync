@@ -3934,6 +3934,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Xavier",
+        "injury_status": "Questionable",
+        "last_name": "Worthy",
+        "news_updated": "1787862352739",
+        "number": "1",
+        "player_id": "11624",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "KC",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 135,
+      "picked_by": "727601365655810048",
+      "player_id": "11624",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 14
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Tyrone",
+        "injury_status": "",
+        "last_name": "Tracy",
+        "news_updated": "1787447727038",
+        "number": "29",
+        "player_id": "11655",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "NYG",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 136,
+      "picked_by": "738124656086831104",
+      "player_id": "11655",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 14
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3970,7 +4022,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:52:34Z",
+    "last_success_at": "2026-08-28T00:53:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
