@@ -3726,6 +3726,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 7,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Cam",
+        "injury_status": "",
+        "last_name": "Little",
+        "news_updated": "1786904414091",
+        "number": "39",
+        "player_id": "11786",
+        "position": "K",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "JAX",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 127,
+      "picked_by": "381483251186798592",
+      "player_id": "11786",
+      "reactions": null,
+      "roster_id": 4,
+      "round": 13
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3762,7 +3788,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:47:49Z",
+    "last_success_at": "2026-08-28T00:48:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
