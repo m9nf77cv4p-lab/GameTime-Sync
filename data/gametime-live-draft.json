@@ -2374,6 +2374,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Rico",
+        "injury_status": "",
+        "last_name": "Dowdle",
+        "news_updated": "1787379030984",
+        "number": "13",
+        "player_id": "7021",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "PIT",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "6"
+      },
+      "pick_no": 75,
+      "picked_by": "727601365655810048",
+      "player_id": "7021",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 8
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2410,7 +2436,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:04:04Z",
+    "last_success_at": "2026-08-28T00:04:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
