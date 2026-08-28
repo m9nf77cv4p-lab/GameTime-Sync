@@ -2400,6 +2400,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Chuba",
+        "injury_status": "Questionable",
+        "last_name": "Hubbard",
+        "news_updated": "1787598940019",
+        "number": "30",
+        "player_id": "7594",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CAR",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 76,
+      "picked_by": "738124656086831104",
+      "player_id": "7594",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 8
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Rhamondre",
+        "injury_status": "",
+        "last_name": "Stevenson",
+        "news_updated": "1787685339473",
+        "number": "38",
+        "player_id": "7611",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "NE",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 77,
+      "picked_by": "738615497108680704",
+      "player_id": "7611",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 8
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2436,7 +2488,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:04:49Z",
+    "last_success_at": "2026-08-28T00:05:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
