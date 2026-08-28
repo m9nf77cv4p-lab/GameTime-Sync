@@ -3648,6 +3648,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Chris",
+        "injury_status": "",
+        "last_name": "Rodriguez",
+        "news_updated": "1787761847400",
+        "number": "24",
+        "player_id": "10219",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "JAX",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 124,
+      "picked_by": "738615497108680704",
+      "player_id": "10219",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 13
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Cameron",
+        "injury_status": "",
+        "last_name": "Dicker",
+        "news_updated": "1787352629459",
+        "number": "11",
+        "player_id": "8259",
+        "position": "K",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "LAC",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 125,
+      "picked_by": "738124656086831104",
+      "player_id": "8259",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 13
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3684,7 +3736,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:45:04Z",
+    "last_success_at": "2026-08-28T00:45:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
