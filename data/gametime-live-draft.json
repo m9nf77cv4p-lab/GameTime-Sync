@@ -3024,6 +3024,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 1,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jordan",
+        "injury_status": "",
+        "last_name": "Mason",
+        "news_updated": "1787232023726",
+        "number": "27",
+        "player_id": "8408",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "MIN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 100,
+      "picked_by": "1132662781834113024",
+      "player_id": "8408",
+      "reactions": null,
+      "roster_id": 6,
+      "round": 10
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3060,7 +3086,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:26:49Z",
+    "last_success_at": "2026-08-28T00:27:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
