@@ -3778,6 +3778,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 9,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "MarShawn",
+        "injury_status": "",
+        "last_name": "Lloyd",
+        "news_updated": "1787873454055",
+        "number": "32",
+        "player_id": "11581",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "GB",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 129,
+      "picked_by": "727301621322706944",
+      "player_id": "11581",
+      "reactions": null,
+      "roster_id": 1,
+      "round": 13
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3814,7 +3840,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:49:34Z",
+    "last_success_at": "2026-08-28T00:50:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
