@@ -4298,6 +4298,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 9,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jake",
+        "injury_status": "",
+        "last_name": "Ferguson",
+        "news_updated": "1787194818074",
+        "number": "87",
+        "player_id": "8110",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DAL",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 149,
+      "picked_by": "727301621322706944",
+      "player_id": "8110",
+      "reactions": null,
+      "roster_id": 1,
+      "round": 15
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 10,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Matthew",
+        "injury_status": "",
+        "last_name": "Stafford",
+        "news_updated": "1787273753836",
+        "number": "9",
+        "player_id": "421",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "LAR",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "17"
+      },
+      "pick_no": 150,
+      "picked_by": "738223517774020608",
+      "player_id": "421",
+      "reactions": null,
+      "roster_id": 9,
+      "round": 15
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -4334,7 +4386,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:58:34Z",
+    "last_success_at": "2026-08-28T00:59:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
