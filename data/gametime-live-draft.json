@@ -4142,6 +4142,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Kyler",
+        "injury_status": "",
+        "last_name": "Murray",
+        "news_updated": "1787539834803",
+        "number": "1",
+        "player_id": "5849",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "MIN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "7"
+      },
+      "pick_no": 143,
+      "picked_by": "728271749338251264",
+      "player_id": "5849",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 15
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Khalil",
+        "injury_status": "Questionable",
+        "last_name": "Shakir",
+        "news_updated": "1787871053979",
+        "number": "10",
+        "player_id": "8134",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "BUF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 144,
+      "picked_by": "738615497108680704",
+      "player_id": "8134",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 15
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -4178,7 +4230,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:56:19Z",
+    "last_success_at": "2026-08-28T00:56:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
