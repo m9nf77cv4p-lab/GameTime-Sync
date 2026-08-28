@@ -20,7 +20,7 @@
     },
     "last_message_id": "1396356110490824704",
     "last_message_time": 1787279749085,
-    "last_picked": 1787878085749,
+    "last_picked": 1787878157180,
     "league_id": "1396356110482407424",
     "metadata": {
       "description": "",
@@ -3814,7 +3814,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:49:19Z",
+    "last_success_at": "2026-08-28T00:49:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
