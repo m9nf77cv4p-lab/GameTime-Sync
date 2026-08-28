@@ -3414,6 +3414,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Isiah",
+        "injury_status": "Questionable",
+        "last_name": "Pacheco",
+        "news_updated": "1787851253033",
+        "number": "10",
+        "player_id": "8205",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DET",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 115,
+      "picked_by": "727601365655810048",
+      "player_id": "8205",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 12
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Dallas",
+        "injury_status": "",
+        "last_name": "Goedert",
+        "news_updated": "1787364929760",
+        "number": "88",
+        "player_id": "5022",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "PHI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "8"
+      },
+      "pick_no": 116,
+      "picked_by": "738124656086831104",
+      "player_id": "5022",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 12
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3450,7 +3502,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:39:04Z",
+    "last_success_at": "2026-08-28T00:39:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
