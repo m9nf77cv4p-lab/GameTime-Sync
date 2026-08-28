@@ -3466,6 +3466,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Isaiah",
+        "injury_status": "",
+        "last_name": "Likely",
+        "news_updated": "1787253630471",
+        "number": "9",
+        "player_id": "8131",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "NYG",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 117,
+      "picked_by": "738615497108680704",
+      "player_id": "8131",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 12
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Kenny",
+        "injury_status": "",
+        "last_name": "Gainwell",
+        "news_updated": "1787779249321",
+        "number": "1",
+        "player_id": "7567",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "TB",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "5"
+      },
+      "pick_no": 118,
+      "picked_by": "728271749338251264",
+      "player_id": "7567",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 12
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3502,7 +3554,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:39:49Z",
+    "last_success_at": "2026-08-28T00:40:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
