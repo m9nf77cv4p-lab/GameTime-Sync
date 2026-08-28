@@ -2452,6 +2452,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Joe",
+        "injury_status": "",
+        "last_name": "Burrow",
+        "news_updated": "1787766649830",
+        "number": "9",
+        "player_id": "6770",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CIN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "6"
+      },
+      "pick_no": 78,
+      "picked_by": "728271749338251264",
+      "player_id": "6770",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 8
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2488,7 +2514,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:05:34Z",
+    "last_success_at": "2026-08-28T00:05:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
