@@ -3206,6 +3206,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 7,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Makai",
+        "injury_status": "",
+        "last_name": "Lemon",
+        "news_updated": "1787591739320",
+        "number": "9",
+        "player_id": "13294",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "PHI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "0"
+      },
+      "pick_no": 107,
+      "picked_by": "381483251186798592",
+      "player_id": "13294",
+      "reactions": null,
+      "roster_id": 4,
+      "round": 11
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 8,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Josh",
+        "injury_status": "Questionable",
+        "last_name": "Downs",
+        "news_updated": "1787771148447",
+        "number": "2",
+        "player_id": "9500",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "IND",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 108,
+      "picked_by": "736434967562858496",
+      "player_id": "9500",
+      "reactions": null,
+      "roster_id": 5,
+      "round": 11
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3242,7 +3294,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:33:19Z",
+    "last_success_at": "2026-08-28T00:34:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
