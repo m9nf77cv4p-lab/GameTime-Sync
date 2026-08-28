@@ -4555,6 +4555,32 @@
       "reactions": null,
       "roster_id": 7,
       "round": 16
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Chig",
+        "injury_status": "",
+        "last_name": "Okonkwo",
+        "news_updated": "1787719542922",
+        "number": "85",
+        "player_id": "8210",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "WAS",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "4"
+      },
+      "pick_no": 159,
+      "picked_by": "563234061722038272",
+      "player_id": "8210",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 16
     }
   ],
   "schema_version": 1,
@@ -4568,7 +4594,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T01:03:04Z",
+    "last_success_at": "2026-08-28T01:03:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
