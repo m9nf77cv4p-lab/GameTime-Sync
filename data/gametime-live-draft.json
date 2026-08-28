@@ -2998,6 +2998,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 2,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jayden",
+        "injury_status": "",
+        "last_name": "Reed",
+        "news_updated": "1787633443238",
+        "number": "11",
+        "player_id": "10222",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "GB",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 99,
+      "picked_by": "563234061722038272",
+      "player_id": "10222",
+      "reactions": null,
+      "roster_id": 2,
+      "round": 10
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3034,7 +3060,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:26:19Z",
+    "last_success_at": "2026-08-28T00:26:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
