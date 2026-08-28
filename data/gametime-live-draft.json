@@ -4425,6 +4425,32 @@
       "reactions": null,
       "roster_id": 5,
       "round": 16
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 7,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Bo",
+        "injury_status": "",
+        "last_name": "Nix",
+        "news_updated": "1787405722677",
+        "number": "10",
+        "player_id": "11563",
+        "position": "QB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DEN",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "2"
+      },
+      "pick_no": 154,
+      "picked_by": "381483251186798592",
+      "player_id": "11563",
+      "reactions": null,
+      "roster_id": 4,
+      "round": 16
     }
   ],
   "schema_version": 1,
@@ -4438,7 +4464,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T01:00:04Z",
+    "last_success_at": "2026-08-28T01:00:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
