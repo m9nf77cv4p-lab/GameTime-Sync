@@ -4194,6 +4194,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Antonio",
+        "injury_status": "",
+        "last_name": "Williams",
+        "news_updated": "1787427025335",
+        "number": "14",
+        "player_id": "13301",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "WAS",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "0"
+      },
+      "pick_no": 145,
+      "picked_by": "738124656086831104",
+      "player_id": "13301",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 15
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 6,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Jake",
+        "injury_status": "",
+        "last_name": "Bates",
+        "news_updated": "1787427325461",
+        "number": "39",
+        "player_id": "11539",
+        "position": "K",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "DET",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "3"
+      },
+      "pick_no": 146,
+      "picked_by": "727601365655810048",
+      "player_id": "11539",
+      "reactions": null,
+      "roster_id": 3,
+      "round": 15
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -4230,7 +4282,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:57:04Z",
+    "last_success_at": "2026-08-28T00:57:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
