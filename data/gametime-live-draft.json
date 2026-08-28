@@ -2348,6 +2348,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 7,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Chris",
+        "injury_status": "",
+        "last_name": "Godwin",
+        "news_updated": "1787796359076",
+        "number": "14",
+        "player_id": "4037",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "TB",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "9"
+      },
+      "pick_no": 74,
+      "picked_by": "381483251186798592",
+      "player_id": "4037",
+      "reactions": null,
+      "roster_id": 4,
+      "round": 8
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2384,7 +2410,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:02:34Z",
+    "last_success_at": "2026-08-28T00:02:49Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
