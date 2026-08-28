@@ -2582,6 +2582,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "George",
+        "injury_status": "Questionable",
+        "last_name": "Kittle",
+        "news_updated": "1787756746843",
+        "number": "85",
+        "player_id": "4217",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "SF",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "9"
+      },
+      "pick_no": 83,
+      "picked_by": "728271749338251264",
+      "player_id": "4217",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 9
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Los Angeles",
+        "injury_status": "",
+        "last_name": "Rams",
+        "news_updated": "",
+        "number": "",
+        "player_id": "LAR",
+        "position": "DEF",
+        "sport": "nfl",
+        "status": "",
+        "team": "LAR",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": ""
+      },
+      "pick_no": 84,
+      "picked_by": "738615497108680704",
+      "player_id": "LAR",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 9
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -2618,7 +2670,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:09:19Z",
+    "last_success_at": "2026-08-28T00:09:34Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
