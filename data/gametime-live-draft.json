@@ -3102,6 +3102,58 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 3,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "DK",
+        "injury_status": "Questionable",
+        "last_name": "Metcalf",
+        "news_updated": "1787851853250",
+        "number": "4",
+        "player_id": "5846",
+        "position": "WR",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "PIT",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "7"
+      },
+      "pick_no": 103,
+      "picked_by": "728271749338251264",
+      "player_id": "5846",
+      "reactions": null,
+      "roster_id": 7,
+      "round": 11
+    },
+    {
+      "draft_id": "1396356110490824704",
+      "draft_slot": 4,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Travis",
+        "injury_status": "",
+        "last_name": "Kelce",
+        "news_updated": "1787518532928",
+        "number": "87",
+        "player_id": "1466",
+        "position": "TE",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "KC",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "13"
+      },
+      "pick_no": 104,
+      "picked_by": "738615497108680704",
+      "player_id": "1466",
+      "reactions": null,
+      "roster_id": 10,
+      "round": 11
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3138,7 +3190,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:28:19Z",
+    "last_success_at": "2026-08-28T00:29:04Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
