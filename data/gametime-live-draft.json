@@ -3154,6 +3154,32 @@
     },
     {
       "draft_id": "1396356110490824704",
+      "draft_slot": 5,
+      "is_keeper": null,
+      "metadata": {
+        "first_name": "Kyle",
+        "injury_status": "Questionable",
+        "last_name": "Monangai",
+        "news_updated": "1787863252852",
+        "number": "25",
+        "player_id": "12534",
+        "position": "RB",
+        "sport": "nfl",
+        "status": "Active",
+        "team": "CHI",
+        "team_abbr": "",
+        "team_changed_at": "",
+        "years_exp": "1"
+      },
+      "pick_no": 105,
+      "picked_by": "738124656086831104",
+      "player_id": "12534",
+      "reactions": null,
+      "roster_id": 8,
+      "round": 11
+    },
+    {
+      "draft_id": "1396356110490824704",
       "draft_slot": 8,
       "is_keeper": null,
       "metadata": {
@@ -3190,7 +3216,7 @@
   "sync": {
     "consecutive_errors": 0,
     "error": null,
-    "last_success_at": "2026-08-28T00:30:49Z",
+    "last_success_at": "2026-08-28T00:31:19Z",
     "max_duration_minutes": 240,
     "poll_interval_seconds": 15,
     "started_at": "2026-08-27T22:37:49Z",
