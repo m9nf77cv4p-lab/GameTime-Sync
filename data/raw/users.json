@@ -17,7 +17,7 @@
     "avatar": "c27aa3cd822a11acf2200275eb9912a9",
     "display_name": "Revont",
     "is_bot": false,
-    "is_owner": false,
+    "is_owner": true,
     "league_id": "1396356110482407424",
     "metadata": {
       "allow_pn": "on",
@@ -62,7 +62,7 @@
     "avatar": "4f4090e5e9c3941414db40a871e3e909",
     "display_name": "TJS2025",
     "is_bot": false,
-    "is_owner": true,
+    "is_owner": false,
     "league_id": "1396356110482407424",
     "metadata": {
       "allow_pn": "on",

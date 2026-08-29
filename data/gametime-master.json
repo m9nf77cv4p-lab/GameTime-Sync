@@ -4295,14 +4295,14 @@
       "ff": 1.0,
       "fg_ret_yd": 0.0,
       "fgm": 0.0,
-      "fgm_0_19": 3.0,
-      "fgm_20_29": 3.0,
-      "fgm_30_39": 3.0,
-      "fgm_40_49": 4.0,
-      "fgm_50_59": 5.0,
-      "fgm_50p": 1.0,
-      "fgm_60p": 6.0,
-      "fgm_yds": 0.0,
+      "fgm_0_19": 0.0,
+      "fgm_20_29": 0.0,
+      "fgm_30_39": 0.0,
+      "fgm_40_49": 0.0,
+      "fgm_50_59": 0.0,
+      "fgm_50p": 0.0,
+      "fgm_60p": 0.0,
+      "fgm_yds": 0.1,
       "fgm_yds_over_30": 0.0,
       "fgmiss": -1.0,
       "fgmiss_0_19": 0.0,
@@ -4468,8 +4468,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T17:54:55Z",
-    "source_fingerprint": "0a736401a4ad7553ca79a25d4a4402aa937d15ab61748389d961da2b8c993a47"
+    "last_changed_at": "2026-08-29T23:52:21Z",
+    "source_fingerprint": "6d13be95c30c7f34dd64951eb556935172028e63167b8105c77a496a6bf54019"
   },
   "teams": [
     {
