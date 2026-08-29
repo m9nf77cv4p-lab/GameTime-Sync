@@ -4444,8 +4444,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T03:48:53Z",
-    "source_fingerprint": "ea21213f62793732f4980afa65b0a4002f7e615c4d014011266dff429dc271cc"
+    "last_changed_at": "2026-08-29T15:13:36Z",
+    "source_fingerprint": "dc7ed810af35387bc96208f260db2b339b6b26a34d764bda5259f4123e6bb70e"
   },
   "teams": [
     {
@@ -4616,9 +4616,9 @@
         "6770",
         "6790",
         "7567",
+        "8132",
         "8137",
         "9493",
-        "9502",
         "PHI"
       ],
       "roster_id": 7,
