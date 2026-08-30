@@ -4468,8 +4468,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T22:38:05Z",
-    "source_fingerprint": "cbcd224a5f80f05dffbeb4aca67ac8b41075dd7041619fb65064b52a7d4ab26f"
+    "last_changed_at": "2026-08-30T23:01:20Z",
+    "source_fingerprint": "d65fe2cc18d93804cef700e5c1e890b84f4b0cd8388649a41dbe8b014b5fa422"
   },
   "teams": [
     {
@@ -4618,7 +4618,8 @@
         "8408",
         "8800",
         "9221",
-        "9488"
+        "9488",
+        "LV"
       ],
       "roster_id": 6,
       "team_name": "4for4s"
