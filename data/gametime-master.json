@@ -4412,7 +4412,7 @@
       "capacity_override": 0,
       "commissioner_direct_invite": 0,
       "daily_waivers": 0,
-      "daily_waivers_days": 1093,
+      "daily_waivers_days": 1092,
       "daily_waivers_hour": 0,
       "daily_waivers_last_ran": 27,
       "disable_adds": 0,
@@ -4430,7 +4430,7 @@
       "playoff_seed_type": 1,
       "playoff_teams": 6,
       "playoff_type": 0,
-      "playoff_week_start": 15,
+      "playoff_week_start": 14,
       "reserve_allow_cov": 1,
       "reserve_allow_dnr": 0,
       "reserve_allow_doubtful": 0,
@@ -4446,7 +4446,7 @@
       "taxi_deadline": 0,
       "taxi_slots": 0,
       "taxi_years": 0,
-      "trade_deadline": 12,
+      "trade_deadline": 11,
       "trade_review_days": 1,
       "type": 1,
       "veto_auto_poll": 0,
@@ -4468,8 +4468,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-02T01:17:31Z",
-    "source_fingerprint": "af027c022d23b9f5ecb29cb0309efd4931f6336c6ef1269358ff916809f977aa"
+    "last_changed_at": "2026-09-02T02:23:22Z",
+    "source_fingerprint": "b4bb6dc980856c660f06f5c29cfb8b79f06f5ce27703ea94736ee8ee45a091d8"
   },
   "teams": [
     {
@@ -4495,7 +4495,7 @@
         "9754"
       ],
       "roster_id": 1,
-      "team_name": "LastchanceU"
+      "team_name": "2 ATiennes"
     },
     {
       "confirmed_keeper_ids": [],
