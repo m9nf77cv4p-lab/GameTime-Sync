@@ -4468,8 +4468,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T22:04:09Z",
-    "source_fingerprint": "83ae7ba6c2a2d1f7188fbe93bb7b5e9f230793ae1c8dcca53e3db6f47bd59be1"
+    "last_changed_at": "2026-09-01T22:45:17Z",
+    "source_fingerprint": "ccb614462bb254936ea4af0c22f714a21bcf71ceba39d87721abf940086f450f"
   },
   "teams": [
     {
@@ -4691,9 +4691,10 @@
         "5045",
         "6904",
         "7564",
+        "8110",
         "8155",
         "9484",
-        "SF"
+        "LAC"
       ],
       "roster_id": 9,
       "team_name": "Consecutive Collusions"
