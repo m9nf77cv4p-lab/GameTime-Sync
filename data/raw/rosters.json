@@ -269,7 +269,9 @@
     "co_owners": null,
     "keepers": null,
     "league_id": "1396356110482407424",
-    "metadata": null,
+    "metadata": {
+      "p_nick_13417": "Daejon Love"
+    },
     "owner_id": "1132662781834113024",
     "player_map": null,
     "players": [
@@ -531,12 +533,12 @@
     },
     "starters": [
       "4984",
-      "4034",
+      "0",
       "8150",
       "5859",
       "7525",
       "1466",
-      "9997",
+      "0",
       "0",
       "3451",
       "LAR"
