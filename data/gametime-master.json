@@ -4234,7 +4234,8 @@
     "metadata": {
       "auto_continue": "on",
       "is_open": "false",
-      "keeper_deadline": "30"
+      "keeper_deadline": "30",
+      "latest_league_winner_roster_id": "1"
     },
     "name": "Gametime",
     "roster_positions": [
@@ -4468,8 +4469,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-04T17:29:01Z",
-    "source_fingerprint": "291f46a9aea44e3df0d09e2f8b1135b8c49b8bf4c3ccd198255fdc9f1dcd027e"
+    "last_changed_at": "2026-09-04T23:29:19Z",
+    "source_fingerprint": "686f544c7b43d973cc318d976bb232351a98b506d6e66d8c5119b5c3b14fffa6"
   },
   "teams": [
     {

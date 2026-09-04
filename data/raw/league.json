@@ -21,7 +21,8 @@
   "metadata": {
     "auto_continue": "on",
     "is_open": "false",
-    "keeper_deadline": "30"
+    "keeper_deadline": "30",
+    "latest_league_winner_roster_id": "1"
   },
   "name": "Gametime",
   "previous_league_id": "1268005654392487937",
