@@ -4469,8 +4469,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T22:07:04Z",
-    "source_fingerprint": "38146fd8717544922be58fdf5264df5b672179c1db966fea45a42f1c8f5e73f8"
+    "last_changed_at": "2026-09-13T04:41:01Z",
+    "source_fingerprint": "3ccadb7c5994bcd810bb468a3071bad4b1a4600351984c87eedbe5ed03a32c0d"
   },
   "teams": [
     {
@@ -4482,7 +4482,6 @@
         "11560",
         "11581",
         "12711",
-        "13296",
         "13298",
         "3198",
         "6819",
@@ -4493,7 +4492,8 @@
         "9224",
         "9226",
         "9487",
-        "9754"
+        "9754",
+        "PIT"
       ],
       "roster_id": 1,
       "team_name": "2 ATiennes"
