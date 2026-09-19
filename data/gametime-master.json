@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-19T21:32:45Z",
-    "source_fingerprint": "5cafd5811f6bcc556462ea99b006f71dd4b9ca18843f05a697a1fc73269de2a4"
+    "last_changed_at": "2026-09-19T23:29:11Z",
+    "source_fingerprint": "ba5db12bfdd2f9ea71c949661018129db57d79ff77b19c68be586cff1087a784"
   },
   "teams": [
     {
@@ -4621,9 +4621,9 @@
         "7588",
         "8110",
         "8121",
-        "8136",
         "9221",
         "9488",
+        "KC",
         "TB"
       ],
       "roster_id": 6,
