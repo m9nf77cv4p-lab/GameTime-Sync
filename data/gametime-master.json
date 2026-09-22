@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-22T05:53:45Z",
-    "source_fingerprint": "10fb6e30b40d3ea709f38b95ae5f0c49585b7e8f7197b8d73c6b6ab6d43e011e"
+    "last_changed_at": "2026-09-22T15:29:07Z",
+    "source_fingerprint": "85ac27892a76e38efb94a85685735dafd240112e2d7d567754afd25454a27f0b"
   },
   "teams": [
     {
@@ -4514,7 +4514,6 @@
         "12519",
         "12526",
         "13286",
-        "13294",
         "4046",
         "5012",
         "6813",
@@ -4702,7 +4701,7 @@
         "SF"
       ],
       "roster_id": 9,
-      "team_name": "Consecutive Collusions"
+      "team_name": "Consecutive Injuries"
     },
     {
       "confirmed_keeper_ids": [],
