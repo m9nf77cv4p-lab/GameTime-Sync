@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-22T22:02:57Z",
-    "source_fingerprint": "97c4d47a51903a21914cdd1743627287d69948dce1d723519c2090c8d14e6180"
+    "last_changed_at": "2026-09-23T00:24:42Z",
+    "source_fingerprint": "f28250eed394286afc299f093287083f3de93b07942db538546765ae02309e8b"
   },
   "teams": [
     {
@@ -4509,7 +4509,6 @@
         "10222",
         "11533",
         "11583",
-        "12508",
         "12512",
         "12519",
         "12526",
@@ -4601,7 +4600,7 @@
         "SEA"
       ],
       "roster_id": 5,
-      "team_name": "Make CMC Great Again"
+      "team_name": "🖕 Drake Maye"
     },
     {
       "confirmed_keeper_ids": [],

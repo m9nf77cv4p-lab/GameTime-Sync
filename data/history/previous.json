@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-22T19:04:07Z",
-    "source_fingerprint": "3ca2a99aa27da59debe6231fe8b050b589f4b18492f985257057b7593c2bb3e6"
+    "last_changed_at": "2026-09-22T22:02:57Z",
+    "source_fingerprint": "97c4d47a51903a21914cdd1743627287d69948dce1d723519c2090c8d14e6180"
   },
   "teams": [
     {
@@ -4626,7 +4626,7 @@
         "TB"
       ],
       "roster_id": 6,
-      "team_name": "4for4s"
+      "team_name": "Trade Addicts"
     },
     {
       "confirmed_keeper_ids": [],
