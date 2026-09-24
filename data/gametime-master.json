@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-23T21:47:42Z",
-    "source_fingerprint": "2f3d7a19de327b826626fb72c6f8a2a27c592e3c26174dc6403b2fb00273adb4"
+    "last_changed_at": "2026-09-24T00:00:56Z",
+    "source_fingerprint": "5f3ec66727880651868ef8dc8eebfadd99cbf322a1d0bfa945f62067ec11928b"
   },
   "teams": [
     {
@@ -4685,7 +4685,6 @@
       "manager": "dpharaoh",
       "owner_user_id": "738223517774020608",
       "player_ids": [
-        "11435",
         "11584",
         "11632",
         "11792",
