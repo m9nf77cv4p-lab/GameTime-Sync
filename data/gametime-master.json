@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-25T14:59:05Z",
-    "source_fingerprint": "9a4280e5f42fc616d3c186c9f30cf8f9545ef116f381beccf36b0659d74b2883"
+    "last_changed_at": "2026-09-25T19:12:37Z",
+    "source_fingerprint": "90c22c4df1e41ecf6413032ba43de3f60ff09342b115767d41b834b9ba5f0599"
   },
   "teams": [
     {
@@ -4507,6 +4507,7 @@
       "player_ids": [
         "10222",
         "11533",
+        "11566",
         "11583",
         "12512",
         "12519",
@@ -4520,7 +4521,6 @@
         "8408",
         "9509",
         "9756",
-        "BAL",
         "CAR"
       ],
       "roster_id": 2,
