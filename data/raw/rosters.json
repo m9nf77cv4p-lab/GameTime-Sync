@@ -27,7 +27,9 @@
       "9754",
       "MIN"
     ],
-    "reserve": null,
+    "reserve": [
+      "11560"
+    ],
     "roster_id": 1,
     "settings": {
       "fpts": 316,
@@ -40,7 +42,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 1
     },
     "starters": [
@@ -134,6 +136,7 @@
     "player_map": null,
     "players": [
       "11539",
+      "11610",
       "11620",
       "11631",
       "12490",
@@ -174,7 +177,7 @@
       "12490",
       "7547",
       "11620",
-      "12517",
+      "5001",
       "6806",
       "2449",
       "11539",
@@ -226,7 +229,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 1
     },
     "starters": [
@@ -285,7 +288,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 2
     },
     "starters": [
@@ -347,7 +350,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 2
     },
     "starters": [
@@ -535,7 +538,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 0
     },
     "starters": [
@@ -564,12 +567,12 @@
     "player_map": null,
     "players": [
       "10213",
+      "11624",
       "11625",
       "1466",
       "2216",
       "3451",
       "4034",
-      "4035",
       "4892",
       "4984",
       "5859",
@@ -596,18 +599,18 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 10,
       "wins": 1
     },
     "starters": [
       "4984",
       "4034",
       "8150",
-      "2216",
       "7525",
-      "8131",
+      "8134",
       "1466",
-      "7611",
+      "0",
+      "10213",
       "3451",
       "LAR"
     ],
