@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-29T07:31:42Z",
-    "source_fingerprint": "68c2752d91448ed9e97ef6ab68c479ce62d5cabce9bdea0248f548b0406b905e"
+    "last_changed_at": "2026-09-29T14:18:41Z",
+    "source_fingerprint": "b515df079359e2e265a4f2d8bfc5d7db7444d69804b34a06ef27bf48b8c9b395"
   },
   "teams": [
     {
@@ -4521,8 +4521,7 @@
         "8148",
         "8408",
         "9509",
-        "9756",
-        "CAR"
+        "9756"
       ],
       "roster_id": 2,
       "team_name": "🥇⛪️ TheChristianing ⛪️🥇"
