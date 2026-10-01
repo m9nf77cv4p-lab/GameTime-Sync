@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-30T20:06:49Z",
-    "source_fingerprint": "e000a4a07e1502e5dbe8b0038186b4b698c7ab1832f77b262ccca209eec52d74"
+    "last_changed_at": "2026-10-01T09:23:04Z",
+    "source_fingerprint": "66fa956e44f2426c1d30e967405fc44ad2498bfc06c0c6f619aae0d3c681a8a9"
   },
   "teams": [
     {
@@ -4535,7 +4535,6 @@
         "11539",
         "11610",
         "11620",
-        "11631",
         "12490",
         "12501",
         "12507",
@@ -4548,6 +4547,7 @@
         "7547",
         "7569",
         "8183",
+        "CHI",
         "DEN"
       ],
       "roster_id": 3,
