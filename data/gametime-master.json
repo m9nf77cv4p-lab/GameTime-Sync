@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-02T06:55:37Z",
-    "source_fingerprint": "f1704c16863cd1920307a4493fe1da5c20621cb4813c94e77d2c280a55f9919b"
+    "last_changed_at": "2026-10-02T13:41:13Z",
+    "source_fingerprint": "b21970c3f7af5326706dbb7e64ecda685c5915bcff6fbb274905cedb35f49f2c"
   },
   "teams": [
     {
@@ -4506,7 +4506,6 @@
       "manager": "Revont",
       "owner_user_id": "563234061722038272",
       "player_ids": [
-        "10222",
         "11533",
         "11566",
         "11583",
@@ -4522,7 +4521,8 @@
         "8130",
         "8148",
         "9509",
-        "9756"
+        "9756",
+        "ARI"
       ],
       "roster_id": 2,
       "team_name": "🥇⛪️ TheChristianing ⛪️🥇"
@@ -4618,14 +4618,14 @@
         "3163",
         "3321",
         "5892",
-        "5947",
         "6804",
         "7588",
         "7839",
         "9221",
         "9486",
         "9488",
-        "BAL"
+        "BAL",
+        "KC"
       ],
       "roster_id": 6,
       "team_name": "Trade Addicts"
