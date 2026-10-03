@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-02T22:35:50Z",
-    "source_fingerprint": "fe0bcd11ab57c6e5a0ef2a2a099703e1fb9f963117c106b82ddebefdf8c95ffe"
+    "last_changed_at": "2026-10-03T12:24:48Z",
+    "source_fingerprint": "e36b1e3006fd73b31bb0d9cc83900d347e885032c33b3efa309e73056f6fa6ce"
   },
   "teams": [
     {
@@ -4595,7 +4595,7 @@
         "13414",
         "2133",
         "7523",
-        "8136",
+        "8131",
         "8144",
         "8151",
         "9500",
@@ -4712,8 +4712,8 @@
       "manager": "Micknuggets24",
       "owner_user_id": "738615497108680704",
       "player_ids": [
-        "11624",
         "11630",
+        "11631",
         "1466",
         "2216",
         "2505",
