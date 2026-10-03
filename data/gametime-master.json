@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-03T12:24:48Z",
-    "source_fingerprint": "e36b1e3006fd73b31bb0d9cc83900d347e885032c33b3efa309e73056f6fa6ce"
+    "last_changed_at": "2026-10-03T16:35:47Z",
+    "source_fingerprint": "0c615b3246bac941c65b34d47237c105da1067b843a3fbda890e244484ed0a56"
   },
   "teams": [
     {
@@ -4619,13 +4619,13 @@
         "3321",
         "5892",
         "6804",
+        "7049",
         "7588",
         "7839",
         "9221",
         "9486",
         "9488",
-        "BAL",
-        "KC"
+        "BAL"
       ],
       "roster_id": 6,
       "team_name": "Trade Addicts"
