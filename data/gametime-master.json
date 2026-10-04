@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-03T16:35:47Z",
-    "source_fingerprint": "0c615b3246bac941c65b34d47237c105da1067b843a3fbda890e244484ed0a56"
+    "last_changed_at": "2026-10-04T13:23:24Z",
+    "source_fingerprint": "ae3db2a268409693949b1012ffb93feaeb4db2e421a51480fce84cf839b34a9c"
   },
   "teams": [
     {
@@ -4619,12 +4619,12 @@
         "3321",
         "5892",
         "6804",
-        "7049",
         "7588",
         "7839",
         "9221",
         "9486",
         "9488",
+        "9502",
         "BAL"
       ],
       "roster_id": 6,
