@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-07T08:50:07Z",
-    "source_fingerprint": "ec263a9033ce1fa3288917517d9482e356bf874e426fdcf5f56b2f5118522311"
+    "last_changed_at": "2026-10-07T15:53:02Z",
+    "source_fingerprint": "534a65b2c9cb081533e3e188948b4d0e30ac80c15a94bdf95a54d47dc81654c1"
   },
   "teams": [
     {
@@ -4521,7 +4521,8 @@
         "8130",
         "8148",
         "9509",
-        "9756"
+        "9756",
+        "NE"
       ],
       "roster_id": 2,
       "team_name": "🥇⛪️ TheChristianing ⛪️🥇"
@@ -4622,9 +4623,9 @@
         "7839",
         "8121",
         "9221",
-        "9486",
         "9488",
-        "9502"
+        "9502",
+        "NYJ"
       ],
       "roster_id": 6,
       "team_name": "Trade Addicts"
