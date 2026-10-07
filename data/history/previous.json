@@ -4420,7 +4420,7 @@
       "disable_trades": 0,
       "draft_rounds": 3,
       "faab_suggestions": 0,
-      "last_report": 3,
+      "last_report": 4,
       "last_scored_leg": 4,
       "league_average_match": 0,
       "leg": 4,
@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-06T06:35:14Z",
-    "source_fingerprint": "fce79d888069bd87526743617786013372322f2d1d2bfa3c7f96bd3f15d2443e"
+    "last_changed_at": "2026-10-06T19:03:24Z",
+    "source_fingerprint": "f899fc0da57e194892734dbea348fdb886431a4391312d6b256dcc76f3b90311"
   },
   "teams": [
     {
@@ -4483,7 +4483,6 @@
         "10232",
         "10236",
         "11560",
-        "11581",
         "3198",
         "3634",
         "4035",
@@ -4499,7 +4498,7 @@
         "MIN"
       ],
       "roster_id": 1,
-      "team_name": "2 ATiennes"
+      "team_name": "All Eyze On Me"
     },
     {
       "confirmed_keeper_ids": [],
@@ -4521,8 +4520,7 @@
         "8130",
         "8148",
         "9509",
-        "9756",
-        "ARI"
+        "9756"
       ],
       "roster_id": 2,
       "team_name": "🥇⛪️ TheChristianing ⛪️🥇"
@@ -4705,7 +4703,7 @@
         "SF"
       ],
       "roster_id": 9,
-      "team_name": "Consecutive Injuries"
+      "team_name": "Blue Tent Gang"
     },
     {
       "confirmed_keeper_ids": [],
