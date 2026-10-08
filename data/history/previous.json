@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-08T00:55:12Z",
-    "source_fingerprint": "99e077324c0fd6c534d6a1d7c8077d48795c5e8cfe0120791d919ee2ed7eb055"
+    "last_changed_at": "2026-10-08T14:33:10Z",
+    "source_fingerprint": "a0eb31791b0a4c9cce02bb076b6bc5c0a8ed90390b33967efc9b0920a99ab288"
   },
   "teams": [
     {
@@ -4673,8 +4673,8 @@
         "6801",
         "7594",
         "8112",
+        "8136",
         "8259",
-        "BUF",
         "HOU",
         "SEA"
       ],
