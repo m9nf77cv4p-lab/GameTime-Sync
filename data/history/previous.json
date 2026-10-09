@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-08T20:05:30Z",
-    "source_fingerprint": "751581339b7aeb369ebb2b24a74ba901a33afd42776304274f059a340ac818c0"
+    "last_changed_at": "2026-10-09T00:19:28Z",
+    "source_fingerprint": "57e2029452b111d36dbbfbac87caa3957d399a17886184ee88d8b76ff91f1d2d"
   },
   "teams": [
     {
@@ -4713,7 +4713,6 @@
       "owner_user_id": "738615497108680704",
       "player_ids": [
         "11630",
-        "11631",
         "1166",
         "1466",
         "2216",
@@ -4728,7 +4727,8 @@
         "8150",
         "9480",
         "9997",
-        "LAR"
+        "LAR",
+        "NO"
       ],
       "roster_id": 10,
       "team_name": "MickNuggets"
