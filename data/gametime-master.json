@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-09T23:09:42Z",
-    "source_fingerprint": "b15ac2bfc6cd74eaebf21bc4ad75b011a77b185bb93e8f3d99af696b61eac060"
+    "last_changed_at": "2026-10-10T14:47:19Z",
+    "source_fingerprint": "dd0ba96dc110dc98a168c837fc816c8eb98fc26fc28473e06a4d9687e75aa723"
   },
   "teams": [
     {
@@ -4660,11 +4660,11 @@
       "manager": "dlparraway",
       "owner_user_id": "738124656086831104",
       "player_ids": [
+        "10235",
         "10859",
         "12534",
         "13279",
         "13301",
-        "13345",
         "3294",
         "5022",
         "5850",
