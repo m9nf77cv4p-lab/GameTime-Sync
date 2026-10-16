@@ -43,7 +43,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 2
     },
     "starters": [
@@ -79,12 +79,12 @@
       "11566",
       "11583",
       "12495",
+      "12506",
       "12512",
       "12519",
       "12526",
       "13286",
       "4046",
-      "5012",
       "6813",
       "7553",
       "8130",
@@ -108,7 +108,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 1,
+      "waiver_position": 10,
       "wins": 3
     },
     "starters": [
@@ -118,7 +118,7 @@
       "12519",
       "12526",
       "8130",
-      "5012",
+      "0",
       "7553",
       "11533",
       "NE"
@@ -166,7 +166,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 4,
       "wins": 1
     },
     "starters": [
@@ -227,7 +227,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 3
     },
     "starters": [
@@ -286,7 +286,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 4
     },
     "starters": [
@@ -348,11 +348,11 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 4
     },
     "starters": [
-      "6904",
+      "0",
       "7588",
       "12527",
       "9488",
@@ -406,7 +406,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 4,
+      "waiver_position": 3,
       "wins": 1
     },
     "starters": [
@@ -464,7 +464,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 2
     },
     "starters": [
@@ -539,7 +539,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 2,
+      "waiver_position": 1,
       "wins": 1
     },
     "starters": [
@@ -600,7 +600,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 3,
+      "waiver_position": 2,
       "wins": 4
     },
     "starters": [
@@ -611,7 +611,7 @@
       "2216",
       "1466",
       "7611",
-      "0",
+      "9480",
       "3451",
       "LAR"
     ],
