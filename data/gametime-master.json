@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-17T04:58:53Z",
-    "source_fingerprint": "d025bf35f9adde044a2b59b5001f9cd04861571ae9495e389bf45a15dde20297"
+    "last_changed_at": "2026-10-17T20:57:03Z",
+    "source_fingerprint": "c4fda753caf0d82c942694240ce23dac7c466787b22ab0a8762a758cb28faf6b"
   },
   "teams": [
     {
@@ -4725,8 +4725,7 @@
         "9480",
         "9486",
         "9997",
-        "LAR",
-        "NO"
+        "LAR"
       ],
       "roster_id": 10,
       "team_name": "MickNuggets"
