@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-21T13:10:43Z",
-    "source_fingerprint": "80ed4e279a1c84c5d101bd24619e90d3cc7abd6c2b9a866ffe1e36d337c68b55"
+    "last_changed_at": "2026-10-21T21:35:56Z",
+    "source_fingerprint": "b1312301f4d917065acea013d8d541b229f7628b9bfac372ad9d8e26dbd44804"
   },
   "teams": [
     {
@@ -4481,11 +4481,12 @@
       "owner_user_id": "727301621322706944",
       "player_ids": [
         "10232",
+        "10235",
         "10236",
-        "11439",
         "11560",
         "11655",
         "12711",
+        "12718",
         "3198",
         "4035",
         "4454",
@@ -4495,7 +4496,6 @@
         "7600",
         "9224",
         "9487",
-        "9511",
         "NYJ"
       ],
       "roster_id": 1,
