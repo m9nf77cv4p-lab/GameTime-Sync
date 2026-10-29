@@ -217,7 +217,7 @@
     "roster_id": 4,
     "settings": {
       "fpts": 1012,
-      "fpts_against": 907,
+      "fpts_against": 908,
       "fpts_against_decimal": 15,
       "fpts_decimal": 20,
       "losses": 3,
@@ -516,7 +516,6 @@
       "13276",
       "13293",
       "13346",
-      "13545",
       "4199",
       "421",
       "4866",
@@ -528,17 +527,15 @@
       "9484",
       "PIT"
     ],
-    "reserve": [
-      "4983"
-    ],
+    "reserve": null,
     "roster_id": 9,
     "settings": {
-      "fpts": 974,
+      "fpts": 975,
       "fpts_against": 1114,
       "fpts_against_decimal": 30,
       "fpts_decimal": 55,
       "losses": 5,
-      "ppts": 1083,
+      "ppts": 1084,
       "ppts_decimal": 35,
       "ties": 0,
       "total_moves": 0,
@@ -551,12 +548,12 @@
       "11584",
       "8155",
       "7564",
-      "13346",
+      "4983",
       "9484",
       "8408",
+      "13276",
       "0",
-      "13545",
-      "0"
+      "PIT"
     ],
     "taxi": null
   },
