@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-30T11:38:46Z",
-    "source_fingerprint": "0fd77b79d959a146c825bbc18afc2cfc7fd50e2fa6293711ee85feb3fbb7f02c"
+    "last_changed_at": "2026-10-30T21:32:22Z",
+    "source_fingerprint": "1c2d0cf14b016f6ad85c35003ac76fdca7729b9832605c305ad4d3e5d3727acd"
   },
   "teams": [
     {
@@ -4616,13 +4616,13 @@
         "12527",
         "12529",
         "13281",
-        "13424",
         "2133",
         "3163",
         "5892",
         "6083",
         "7588",
         "8134",
+        "8210",
         "9488",
         "9500",
         "CIN"
