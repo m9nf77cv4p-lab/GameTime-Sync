@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-05T07:51:56Z",
-    "source_fingerprint": "9ecbb4b3c133696536739184dca6cc78d6d8ce4742a99a451581a6811444adbc"
+    "last_changed_at": "2026-11-06T02:01:30Z",
+    "source_fingerprint": "9d8e1e23b344c7475fe34b721a273151aec7e36a800dcbf61be9e26125dc69ef"
   },
   "teams": [
     {
@@ -4614,12 +4614,12 @@
         "12527",
         "12529",
         "13281",
+        "13337",
         "13424",
         "2133",
         "3163",
         "5892",
         "6083",
-        "7002",
         "7588",
         "8132",
         "9488",
@@ -4627,7 +4627,7 @@
         "NYG"
       ],
       "roster_id": 6,
-      "team_name": "Trade Addicts"
+      "team_name": "RB Graveyard🪦"
     },
     {
       "confirmed_keeper_ids": [],
