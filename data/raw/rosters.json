@@ -43,7 +43,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 2
     },
     "starters": [
@@ -108,7 +108,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 4,
+      "waiver_position": 3,
       "wins": 4
     },
     "starters": [
@@ -200,6 +200,7 @@
       "12481",
       "13274",
       "13345",
+      "5022",
       "5872",
       "6794",
       "8138",
@@ -211,7 +212,9 @@
       "9758",
       "KC"
     ],
-    "reserve": null,
+    "reserve": [
+      "8146"
+    ],
     "roster_id": 4,
     "settings": {
       "fpts": 1163,
@@ -224,7 +227,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 3,
+      "waiver_position": 2,
       "wins": 5
     },
     "starters": [
@@ -232,10 +235,10 @@
       "8138",
       "12481",
       "8167",
-      "8146",
+      "6794",
       "11604",
       "13345",
-      "6794",
+      "9757",
       "11786",
       "KC"
     ],
@@ -286,7 +289,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 6
     },
     "starters": [
@@ -354,7 +357,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 5
     },
     "starters": [
@@ -415,7 +418,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 4,
       "wins": 3
     },
     "starters": [
@@ -475,7 +478,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 4
     },
     "starters": [
@@ -530,8 +533,8 @@
       "5947",
       "7564",
       "8155",
-      "8408",
       "9484",
+      "9756",
       "CHI"
     ],
     "reserve": null,
@@ -547,7 +550,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 2,
+      "waiver_position": 10,
       "wins": 3
     },
     "starters": [
@@ -557,8 +560,8 @@
       "7564",
       "11632",
       "9484",
-      "4199",
-      "4983",
+      "8155",
+      "0",
       "2020",
       "CHI"
     ],
@@ -605,7 +608,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 6
     },
     "starters": [
