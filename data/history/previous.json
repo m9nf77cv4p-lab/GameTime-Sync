@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-06T21:51:08Z",
-    "source_fingerprint": "564f68ad4fc0d9c4a0dd69b35cdf10d617dc8306e6ea4d92c98439be6839fcf5"
+    "last_changed_at": "2026-11-07T01:28:22Z",
+    "source_fingerprint": "c6411b20adc4a47470878cf98b8e0b945dde60a314968ca8481764b8e820a996"
   },
   "teams": [
     {
@@ -4701,7 +4701,7 @@
         "8155",
         "9484",
         "9756",
-        "CHI"
+        "DET"
       ],
       "roster_id": 9,
       "team_name": "Blue Tent Gang"
