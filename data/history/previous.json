@@ -4421,7 +4421,7 @@
       "draft_rounds": 3,
       "faab_suggestions": 0,
       "last_report": 8,
-      "last_scored_leg": 8,
+      "last_scored_leg": 9,
       "league_average_match": 0,
       "leg": 9,
       "max_keepers": 1,
@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-08T08:20:11Z",
-    "source_fingerprint": "d123b6e56a95ed87055df9c07e96d8e81858ccbd8dea337210213344d58f9f3a"
+    "last_changed_at": "2026-11-10T11:47:11Z",
+    "source_fingerprint": "12f3d39a3467d448c0b964a6b30dc304a027641c41d0ee32c4ee4794d9ef73df"
   },
   "teams": [
     {
