@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-15T20:18:46Z",
-    "source_fingerprint": "9fd2d6a09cda5c763131188b1e2094f8a196b954597c366c33377414113b3fee"
+    "last_changed_at": "2026-11-16T16:06:05Z",
+    "source_fingerprint": "2c98b93e06e1a96cd777d27680ea3a08a2ad825358ea8d7c0bed20f3d0bf4af0"
   },
   "teams": [
     {
@@ -4610,6 +4610,7 @@
       "owner_user_id": "1132662781834113024",
       "player_ids": [
         "10229",
+        "11563",
         "11646",
         "12518",
         "12527",
@@ -4624,8 +4625,7 @@
         "8132",
         "8408",
         "9488",
-        "9500",
-        "BAL"
+        "9500"
       ],
       "roster_id": 6,
       "team_name": "RB Graveyard🪦"
