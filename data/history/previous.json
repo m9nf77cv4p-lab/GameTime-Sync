@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-18T22:58:09Z",
-    "source_fingerprint": "1cfaffa48b3d20562e4a833cbb1da3fa79f4371acd6eb291b402751fd11bd631"
+    "last_changed_at": "2026-11-19T21:14:08Z",
+    "source_fingerprint": "983c2ddb80153920a4a1b100fe99c0d326403b30b53ee4e106050541fe0edb31"
   },
   "teams": [
     {
@@ -4508,7 +4508,6 @@
         "11533",
         "11566",
         "11583",
-        "11792",
         "12495",
         "12506",
         "12512",
@@ -4520,7 +4519,9 @@
         "7553",
         "8130",
         "8148",
-        "9509"
+        "8210",
+        "9509",
+        "DET"
       ],
       "roster_id": 2,
       "team_name": "🥇⛪️ TheChristianing ⛪️🥇"
