@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-19T21:14:08Z",
-    "source_fingerprint": "983c2ddb80153920a4a1b100fe99c0d326403b30b53ee4e106050541fe0edb31"
+    "last_changed_at": "2026-11-20T02:23:28Z",
+    "source_fingerprint": "b9c7520eb5cd44a019a9ba06a54edb241cd2c816161418f14459834d70c20a19"
   },
   "teams": [
     {
@@ -4547,7 +4547,7 @@
         "8126",
         "8183",
         "9482",
-        "IND"
+        "DAL"
       ],
       "roster_id": 3,
       "team_name": "Izear"
@@ -4620,8 +4620,8 @@
         "2133",
         "3163",
         "5892",
-        "6650",
         "7588",
+        "8259",
         "9488",
         "9500",
         "CAR"
@@ -4712,6 +4712,7 @@
       "manager": "Micknuggets24",
       "owner_user_id": "738615497108680704",
       "player_ids": [
+        "10218",
         "11783",
         "13296",
         "13298",
@@ -4727,8 +4728,7 @@
         "7611",
         "8150",
         "9997",
-        "LAR",
-        "PIT"
+        "LAR"
       ],
       "roster_id": 10,
       "team_name": "MickNuggets"
