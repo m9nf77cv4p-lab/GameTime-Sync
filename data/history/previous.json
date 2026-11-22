@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-21T21:04:21Z",
-    "source_fingerprint": "c7f30b3f1a2456aef697923796622b1b4ca9b57ad1be2c56f094b7da8373adca"
+    "last_changed_at": "2026-11-22T01:12:47Z",
+    "source_fingerprint": "6a410d43960f76f9353165bcbfd43a395859c7eeae8b934ad35b0910adae2bd6"
   },
   "teams": [
     {
@@ -4495,7 +4495,7 @@
         "9224",
         "9228",
         "9487",
-        "GB"
+        "PIT"
       ],
       "roster_id": 1,
       "team_name": "All Eyze On Me"

@@ -4433,7 +4433,7 @@
       "playoff_seed_type": 1,
       "playoff_teams": 6,
       "playoff_type": 0,
-      "playoff_week_start": 15,
+      "playoff_week_start": 16,
       "reserve_allow_cov": 1,
       "reserve_allow_dnr": 0,
       "reserve_allow_doubtful": 0,
@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-22T01:12:47Z",
-    "source_fingerprint": "6a410d43960f76f9353165bcbfd43a395859c7eeae8b934ad35b0910adae2bd6"
+    "last_changed_at": "2026-11-22T16:12:43Z",
+    "source_fingerprint": "86d357cb94c323c28a19848ab28c2b61447493927e8b82a92a002959eb165551"
   },
   "teams": [
     {
@@ -4481,7 +4481,6 @@
       "owner_user_id": "727301621322706944",
       "player_ids": [
         "10236",
-        "13305",
         "13346",
         "3198",
         "4035",
@@ -4491,6 +4490,7 @@
         "7526",
         "7543",
         "7600",
+        "8132",
         "8134",
         "9224",
         "9228",
@@ -4582,11 +4582,11 @@
       "manager": "ringdime10",
       "owner_user_id": "736434967562858496",
       "player_ids": [
-        "10219",
         "11625",
         "11635",
         "12185",
         "12489",
+        "12540",
         "13414",
         "4983",
         "5844",
