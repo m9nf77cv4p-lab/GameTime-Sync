@@ -25,7 +25,7 @@
       "9224",
       "9228",
       "9487",
-      "GB"
+      "PIT"
     ],
     "reserve": null,
     "roster_id": 1,
@@ -40,7 +40,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 10,
       "wins": 2
     },
     "starters": [
@@ -53,7 +53,7 @@
       "7543",
       "8134",
       "7042",
-      "GB"
+      "0"
     ],
     "taxi": null
   },
@@ -286,7 +286,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 7
     },
     "starters": [
@@ -354,7 +354,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 5
     },
     "starters": [
