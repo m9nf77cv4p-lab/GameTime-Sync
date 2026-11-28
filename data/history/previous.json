@@ -4471,8 +4471,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-25T20:07:19Z",
-    "source_fingerprint": "8ceb28abce6f9a2fcc311a53ce8077be5abe3a85f79865c3613990256d1dc780"
+    "last_changed_at": "2026-11-26T02:49:54Z",
+    "source_fingerprint": "dc14c8588d06be356f062f6189476407b61eeba6c68a11d2aba6c25e9d5a42c9"
   },
   "teams": [
     {
@@ -4564,7 +4564,6 @@
         "12481",
         "13345",
         "5022",
-        "5872",
         "6794",
         "8138",
         "8146",
@@ -4572,7 +4571,8 @@
         "8228",
         "9753",
         "9758",
-        "KC"
+        "KC",
+        "WAS"
       ],
       "roster_id": 4,
       "team_name": "Positive Lense"
@@ -4691,7 +4691,6 @@
         "11584",
         "11586",
         "11632",
-        "12492",
         "12499",
         "13276",
         "13298",
